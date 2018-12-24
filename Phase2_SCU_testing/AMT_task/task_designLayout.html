@@ -1,0 +1,202 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="Other" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p>For the&nbsp;given text of about 250 words, answer whether 16&nbsp;sentences can be inferred from the text.</p>
+
+<p>The following shortened text sample will exemplify the instructions:</p>
+
+<p style="margin-left: 25px"><em><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">"Tesla chief executive Elon Musk says he will no longer be taking the electric car maker private, just two&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">weeks after saying he was considering a deal. Since Mr Musk announced his plan to delist Tesla, its share&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">price has dropped by 20%. He said he had told the board "that I believe the better path is for Tesla to&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">remain public," and that they agreed. Mr Musk, who owns about a fifth of the company, said he had&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">spoken with shareholders and major banks to consider the privatisation but found the sentiment was&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">"please don't do this"."</span></em></p>
+
+<p><strong>Instructions:</strong></p>
+
+<ol>
+	<li>Please <strong>avoid using general knowledge</strong>, and rather check if a given sentence can be inferred from the full text.
+
+	<ul class="square">
+		<li>S: <em>"Elon Musk is the founder of Tesla."</em><br />
+		A: 'Not Present'&nbsp; &nbsp;(Note: World knowledge should not be used. This fact is not mentioned in the text.)</li>
+		<li>S: <em>"Tesla shareholders were notified of Musk's privatisation plan."</em><br />
+		?A: 'Present'&nbsp; &nbsp;(Note: Can be inferred by the last sentence in the text.)</li>
+	</ul>
+	</li>
+	<li>If the information of a sentence <strong>appears in the text, </strong>but <strong>with minor differences in detail</strong>, mark it as 'Present'. Use <strong>your</strong> <strong>own judgment</strong> to decide whether the differences are indeed minor.
+	<ul class="square">
+		<li>S: <em>"Elon Musk heads Tesla."</em><br />
+		A: 'Present'&nbsp; &nbsp;(Note: The text says he is "chief executive" of Tesla.)</li>
+		<li>S: <em>"Elon Musk is chief executive and product architect of Tesla."</em><br />
+		A: 'Not Present'&nbsp; &nbsp;(Note: Musk being a product architect is a major factor in the sentence.)</li>
+	</ul>
+	</li>
+	<li>Allow dates, years and <strong>numbers to be approximate</strong>, or even only implicitly expressed.
+	<ul class="square">
+		<li>S: <em>"Tesla share price has dropped by 19.5% since Mr Musk announced his plan to delist Tesla."</em><br />
+		A: 'Present'&nbsp; &nbsp;(Note: Approximately the same as in the text, doesn't have to be exact.)</li>
+		<li>S: <em>"Musk spoke with three banks to consider the privatisation."</em><br />
+		A: 'Present'&nbsp; &nbsp;(Note: The main point of the sentence is that he spoke with&nbsp;<span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">several banks.)</span></li>
+	</ul>
+	</li>
+	<li>If a date/time is expressed in the sentence, but is <strong>not central to the fact</strong>, it may be ignored.
+	<ul class="square">
+		<li>S:&nbsp;<em>"Elon Musk considered a privatisation deal for Tesla in August."</em><br />
+		A: 'Present'&nbsp; &nbsp;(Note: The privatisation deal is the main issue of the sentence.)</li>
+		<li>S: <em>"August 17 was the day of the Tesla share price drop."</em><br />
+		A: 'Not Present'&nbsp; &nbsp;(Note: The date is the main issue of this sentence.)</li>
+	</ul>
+	</li>
+	<li>Please <strong>be fair with your work</strong>. We will not approve work that is obviously <u>insencere</u>, and is <u>not fully answered</u>.<br />
+	&nbsp;</li>
+</ol>
+
+<p><strong>Thanks!</strong></p>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+<fieldset><label>Text:</label><br />
+${summary_text}</fieldset>
+
+<fieldset>
+<p><strong>1. </strong>${statement_1}</p>
+
+<div class="radio"><label><input name="S1Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S1Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>2. </strong>${statement_2}</p>
+
+<div class="radio"><label><input name="S2Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S2Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>3. </strong>${statement_3}</p>
+
+<div class="radio"><label><input name="S3Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S3Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>4. </strong>${statement_4}</p>
+
+<div class="radio"><label><input name="S4Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S4Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>5. </strong>${statement_5}</p>
+
+<div class="radio"><label><input name="S5Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S5Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>6. </strong>${statement_6}</p>
+
+<div class="radio"><label><input name="S6Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S6Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>7. </strong>${statement_7}</p>
+
+<div class="radio"><label><input name="S7Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S7Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>8. </strong>${statement_8}</p>
+
+<div class="radio"><label><input name="S8Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S8Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>9. </strong>${statement_9}</p>
+
+<div class="radio"><label><input name="S9Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S9Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>10. </strong>${statement_10}</p>
+
+<div class="radio"><label><input name="S10Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S10Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>11. </strong>${statement_11}</p>
+
+<div class="radio"><label><input name="S11Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S11Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>12. </strong>${statement_12}</p>
+
+<div class="radio"><label><input name="S12Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S12Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>13. </strong>${statement_13}</p>
+
+<div class="radio"><label><input name="S13Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S13Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>14. </strong>${statement_14}</p>
+
+<div class="radio"><label><input name="S14Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S14Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>15. </strong>${statement_15}</p>
+
+<div class="radio"><label><input name="S15Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S15Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p><strong>16. </strong>${statement_16}</p>
+
+<div class="radio"><label><input name="S16Answer" type="radio" value="p" />Present</label></div>
+
+<div class="radio"><label><input name="S16Answer" type="radio" value="n" />Not Present</label></div>
+</fieldset>
+
+<fieldset>
+<p>Comments:</p>
+
+<div><textarea id="feedback" name="feedback"></textarea></div>
+</fieldset>
+</section>
+<!-- End Content Body --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset { padding: 10px; background:#fbfbfb; border-radius:5px; margin-bottom:5px; }
+</style>

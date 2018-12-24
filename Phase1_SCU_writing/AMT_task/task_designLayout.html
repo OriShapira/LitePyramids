@@ -1,0 +1,100 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="Other" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p>For the shown text, please write 8 brief and focused sentences that can be learned from it, trying to focus on the important facts.</p>
+
+<p>The following shortened text sample will exemplify the instructions:</p>
+
+<p style="margin-left: 25px"><em>Last week, Tesla chief executive Elon Musk says he will no longer be taking the electric car maker private, just two weeks after saying he was considering a privatisation deal. Since Mr Musk announced his plan to delist Tesla, its share price has dropped by 20%. Mr Musk, who owns about a fifth of the company, said he had spoken with shareholders and major banks to consider the privatisation, but recieved opposing feedback. The future of Tesla may surprise us.</em></p>
+
+<p><strong>Instructions:</strong></p>
+
+<ol>
+	<li>Each sentence should contain <strong>a single fact</strong>&nbsp;written as briefly and clearly as possible.
+
+	<ul class="square">
+		<li><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Good: <em>"Elon Musk considered a privatisation deal for Tesla."</em></span></li>
+		<li><span style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Bad:&nbsp;<em>"Tesla chief executive Elon Musk stated he will not be taking the electric car maker private."</em><br />
+		This sentence contains a few facts, i.e.:</span><br />
+		-&nbsp; Elon Musk is Tesla's cheif executive<br />
+		-&nbsp; Elon Musk says he will not be taking Tesla private<br />
+		-&nbsp; Tesla is an electric car maker</li>
+	</ul>
+	</li>
+	<li>Sentences should describe <strong>factual information</strong>.
+	<ul class="square">
+		<li>Bad:&nbsp;<em>"The future of Tesla may surprise us."</em><br />
+		This is not a fact, but rather a rhetorical or speculative sentence.</li>
+	</ul>
+	</li>
+	<li>Whenever possible, generate sentences by <strong>copying and pasting</strong> from the text, and <strong>editing </strong>the copied extracts so that they act as <strong>self-explained sentences</strong>.
+	<ul class="square">
+		<li>From the copied extract:&nbsp;"he will no longer be taking the electric car maker private"</li>
+		<li>Create a sentence such as: <em>"Elon Musk will not take Tesla private."</em></li>
+	</ul>
+	</li>
+	<li>Please <strong>refrain from using general knowledge</strong> to generate the sentences. The information should be inferred from the text only.
+	<ul class="square">
+		<li>Good: <em>"Elon Musk is Tesla's cheif executive."</em></li>
+		<li>Bad:&nbsp; <em>"Elon Musk is Tesla's founder."</em><br />
+		This is not described in the given text.</li>
+	</ul>
+	</li>
+	<li>Please try to extract information from the full text, and not from a small area of it (such as the beginning only).</li>
+	<li>The order of the sentences does not matter.</li>
+</ol>
+
+<p>Here are some sentences that could be generated for the sample text:</p>
+
+<ul>
+	<li><em>"Elon Musk is Tesla's cheif executive."</em></li>
+	<li><em>"Elon Musk announced a plan to delist Tesla."</em></li>
+	<li><em>"Musk's privatisation announcement caused a drop of 20% in Tesla's share price."</em></li>
+	<li><em>"Musk owns about a fifth of Tesla."</em></li>
+	<li><em>"Shareholders expressed their opposition to privatising Tesla."</em></li>
+</ul>
+
+<p>Notice each sentence demonstrates <u>a single fact</u>, and is <u>self-explanatory</u>.</p>
+
+<p><strong>Thanks!</strong></p>
+
+<p>Note: <em>Please be fair with your work. We will not approve work that is obviously insincere, or in which less than eight different sentences are generated.</em></p>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+<fieldset><label>Text:</label><br />
+${summary_text}</fieldset>
+
+<fieldset><label>Statement 1:</label><textarea class="form-control" cols="100" name="s1" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 2:</label><textarea class="form-control" cols="100" name="s2" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 3:</label><textarea class="form-control" cols="100" name="s3" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 4:</label><textarea class="form-control" cols="100" name="s4" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 5:</label><textarea class="form-control" cols="100" name="s5" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 6:</label><textarea class="form-control" cols="100" name="s6" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 7:</label><textarea class="form-control" cols="100" name="s7" rows="1"></textarea></fieldset>
+
+<fieldset><label>Statement 8:</label><textarea class="form-control" cols="100" name="s8" rows="1"></textarea></fieldset>
+</section>
+<!-- End Content Body --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset {
+    padding: 10px;
+    background:#fbfbfb;
+    border-radius:5px;
+    margin-bottom:5px;
+}
+</style>

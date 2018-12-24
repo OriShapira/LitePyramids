@@ -1,0 +1,20 @@
+Title: Extract information from a given text
+
+Description: Given a 250-word long text, write 8 short, full-sentence statements that can be learned from the text.
+
+Keywords: Information Extraction, Reading Comprehension, Sentence Writing
+
+Reward per assignment: $0.5
+
+Number of assignments per task: 2
+
+Time allotted per assignment: 90 Minutes
+
+Task expires in: 1 Days
+
+Auto-approve and pay Workers in: 2 Days
+
+Worker requirements:
+HIT Approval Rate (%) for all Requesters' HITs greater than or equal to 99
+Number of HITs Approved greater than 5000
+Location is one of (prefer English speaking for need of fluent language)

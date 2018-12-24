@@ -1,0 +1,1022 @@
+eventId,questionId,questionText,answer,author,sourceSummaryId,forUse
+D0630,0,"Mail-order books and book club sales have been hurt from online book sales.",Y,A3CMWYLWMENHLZ,D0630.M.250.C.C,0
+D0630,1,"Online competition led barnesandnoble.com to sell shares to the public.",Y,A3CWW9DIL73I14,D0630.M.250.C.C,1
+D0630,2,"Bookselling is changing dramatically.",Y,AC5UD8N187QD6,D0630.M.250.C.C,0
+D0630,3,"Big chains are proliferating and squeezing out independent bookstores.",Y,AC5UD8N187QD6,D0630.M.250.C.C,1
+D0630,4,"Independents lost half their market share in six years and many have closed.",Y,AC5UD8N187QD6,D0630.M.250.C.C,0
+D0630,5,"Most books are now sold in nontraditional outlets, including discount stores and the internet.",Y,AC5UD8N187QD6,D0630.M.250.C.C,0
+D0630,6,"The American Bookseller Association represents private bookstore owners.",Y,AC5UD8N187QD6,D0630.M.250.C.C,1
+D0630,7,"The American Bookseller Association sponsors Book Expo, an annual convention.",Y,AC5UD8N187QD6,D0630.M.250.C.C,0
+D0630,8,"The American Bookseller Association censured author Frank McCourt for participating in chainstore advertising.",Y,AC5UD8N187QD6,D0630.M.250.C.C,1
+D0630,9,"Online book sales captured 2% of the market in 1999.",Y,AC5UD8N187QD6,D0630.M.250.C.C,0
+D0630,10,"Independent booksellers struggle to compete against the big chain bookstores.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,11,"The major chain bookstores are Barnes & Noble, Borders, and the online retailer Amazon.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,12,"Membership in the American Bookseller Association dropped by almost half in the 1990s.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,13,"Independent booksellers held a 17 percent market share by 1999.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,14,"In 1998, Barnes & Noble acquired Ingram Book Group.",Y,AC5UD8N187QD6,D0630.M.250.C.I,1
+D0630,15,"Many independent bookstores were forced to close their doors in the 1990s.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,16,"Ingram Book Group is the nation's largest distributor of books.",Y,AC5UD8N187QD6,D0630.M.250.C.I,0
+D0630,17,"Independent booksellers held 17% of the market in 1999.",Y,A1L3937MY09J3I,D0630.M.250.C.I,1
+D0630,18,"Book Sense is an online store for independent booksellers.",Y,A1L3937MY09J3I,D0630.M.250.C.I,0
+D0630,19,"Book Sense was created by the American Bookseller Association.",Y,A1L3937MY09J3I,D0630.M.250.C.I,1
+D0630,20,"Barnes & Noble attempted to acquired Ingram Book Group in 1998.",Y,A1L3937MY09J3I,D0630.M.250.C.I,0
+D0630,21,"The American Book Association lost almost half of it's membership in the 1990s.",Y,A1L3937MY09J3I,D0630.M.250.C.I,0
+D0630,22,"Independent booksellers have had great difficulty competing against the major chain stores.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,23,"In the 1990s, membership in the American Bookseller Association dropped by almost half.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,1
+D0630,24,"The remaining membership has been devising strategies to keep businesses solvent.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,25,"The overall sale of adult trade books fell.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,26,"In 1998, Barnes & Nobel announced acquisition of  the nation's largest distributor of books.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,27,"They began an opposition campaign with appeals to the FTC, accusing Barnes & Noble of unfair trade practices.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,28,"The FTC concluded that the planned merger violated antitrust law.",Y,AOGFK82SQRJY7,D0630.M.250.C.I,0
+D0630,29,"Independent booksellers have been the hardest hit by changes to the bookselling industry in the 1990s.",Y,AC5UD8N187QD6,D0630.M.250.C.H,0
+D0630,30,"The American Booksellers Association (ABA) represents the independent booksellers of the U.S.",Y,AC5UD8N187QD6,D0630.M.250.C.H,0
+D0630,31,"The ABA saw its membership drop from 5,200 to less than 3,500.",Y,AC5UD8N187QD6,D0630.M.250.C.H,0
+D0630,32,"The ABA established its own national online store, Book Sense.",Y,AC5UD8N187QD6,D0630.M.250.C.H,0
+D0630,33,"Bookfinder.com is a site created by the ABA to permit online browsing of inventories of thousands of independent bookshops.",Y,AC5UD8N187QD6,D0630.M.250.C.H,0
+D0630,34,"In 1991 independents claimed nearly a third of adult book purchases.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,0
+D0630,35,"In 1997 the independents market share was down to 17%.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,1
+D0630,36,"By 1997 The American Booksellers Association saw its membership drop from 5,200 to less than 3,500.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,1
+D0630,37,"By 1997 large chain booksellers like Barnes & Noble and Borders increased their market share by 3%",Y,ABLP1KUWW46S6,D0630.M.250.C.H,1
+D0630,38,"The ABA filed suit against Barnes&Noble when it made a bid to acquire Ingram Book Group.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,0
+D0630,39,"Online bookselling continued to increase its share of the book market.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,0
+D0630,40,"The Independents also formed Bookfinder.com.",Y,ABLP1KUWW46S6,D0630.M.250.C.H,0
+D0630,41,"Bookselling in the United States changed dramatically in the 1990s.",Y,A3QAETE7C7Z4R3,D0630.M.250.C.H,1
+D0630,42,"The ABA was formed to represent and promote the independent booksellers.",Y,A3QAETE7C7Z4R3,D0630.M.250.C.H,0
+D0630,43,"Barnes&Noble established an online venture that in at least one year lost money.",Y,A3QAETE7C7Z4R3,D0630.M.250.C.H,0
+D0630,44,"Independents market share was nearly cut in half, down to 17%.",Y,A3QAETE7C7Z4R3,D0630.M.250.C.H,0
+D0630,45,"An industry study of the bookselling business was conducted in early 1999.",Y,AC5UD8N187QD6,D0630.M.250.C.G,0
+D0630,46,"The popular market for literature declined almost three percent in the 1990s.",Y,AC5UD8N187QD6,D0630.M.250.C.G,0
+D0630,47,"Independent bookstores have been seriously damaged by superstore chains.",Y,AC5UD8N187QD6,D0630.M.250.C.G,0
+D0630,48,"Independent bookstores' market sales dropped from 16.6 percent to 15.2 percent in 1999.",Y,AC5UD8N187QD6,D0630.M.250.C.G,0
+D0630,49,"Book clubs are being revived by a merger between Time, Inc. and the German-owned Bartelsmann Doubleday Direct.",Y,AC5UD8N187QD6,D0630.M.250.C.G,1
+D0630,50,"Books sells declined in 1999 by 3 percent.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,1
+D0630,51,"30 million fewer books were purchased in 1998.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,0
+D0630,52,"The 1999 book decline was the first in several years.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,0
+D0630,53,"Major chains and electronic bookstores made up about 50 percent of the market.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,0
+D0630,54,"Time, Inc and Bartelsman Doubleday Direct revived book clubs.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,0
+D0630,55,"Booksense.com and Contenville were introduce by the ABA.",Y,A2N2GFB33ZMYGF,D0630.M.250.C.G,1
+D0630,56,"A total of $1.04 billion books were purchased with retail sales.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,57,"Americans bought 30 million fewer books in 1998.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,58,"One-half of the book sales were generated by major chain stores and electronic bookstores.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,1
+D0630,59,"Books sold online tripled their market share between 1998 and 1999.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,60,"Adults purchased over 50 million titles online.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,61,"Booksense.com is a 'hub site' for hundreds of individual sites.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,62,"Contentville is a website in which about 40 of the most respected booksellers will provide editorial comment.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0630,63,"Time, Inc. and Bartelsmann Doubleday Direct are merging.",Y,AYSG3J2U3UF1Y,D0630.M.250.C.G,0
+D0631,64,"The Concorde flies 1,300 miles per hour.",Y,A5NE8TWS8ZV7B,D0631.M.250.D.D,0
+D0631,65,"The Concorde takes less than 4 hours to fly across the Atlantic.",Y,A5NE8TWS8ZV7B,D0631.M.250.D.D,0
+D0631,66,"The Concorde crash in 2000 was caused by a piece of metal falling off.",Y,A5NE8TWS8ZV7B,D0631.M.250.D.D,0
+D0631,67,"The Concorde was developed by the French and the British under a 1962 agreement.",Y,A1V2H0UF94ATWY,D0631.M.250.D.D,0
+D0631,68,"A roundtrip flight on the Concorde cost $10,000.",Y,A1V2H0UF94ATWY,D0631.M.250.D.D,0
+D0631,69,"The Concorde is able to cross the Atlantic in just under four hours.",Y,A1V2H0UF94ATWY,D0631.M.250.D.D,0
+D0631,70,"The Concorde crash killed 109 people on board and 4 on the ground.",Y,A1V2H0UF94ATWY,D0631.M.250.D.D,0
+D0631,71,"The only supersonic passenger plane was the Concorde.",Y,AC5UD8N187QD6,D0631.M.250.D.D,0
+D0631,72,"The Concorde crashed on July 25, 2000.",Y,AC5UD8N187QD6,D0631.M.250.D.D,0
+D0631,73,"The Concorde crash of 2000 killed all 109 on board and 4 on the ground.",Y,AC5UD8N187QD6,D0631.M.250.D.D,0
+D0631,74,"The Concorde made its first passenger flight in 1976.",Y,AC5UD8N187QD6,D0631.M.250.D.D,1
+D0631,75,"The Concorde had 100 seats.",Y,AC5UD8N187QD6,D0631.M.250.D.D,0
+D0631,76,"The Concorde flew 1,300 mph at 60,000 feet.",Y,AC5UD8N187QD6,D0631.M.250.D.D,1
+D0631,77,"Air France paid each family $20,000 to cover immediate expenses after the 2000 crash.",Y,AC5UD8N187QD6,D0631.M.250.D.D,1
+D0631,78,"Air France sued Continental on September 27, 2000.",Y,AC5UD8N187QD6,D0631.M.250.D.D,1
+D0631,79,"British Airways and Air France are the only companies operating Concordes.",Y,AC5UD8N187QD6,D0631.M.250.D.G,0
+D0631,80,"British Airways and Air France own ten and six Concordes, respectively",Y,AC5UD8N187QD6,D0631.M.250.D.G,0
+D0631,81,"Air France's Concordes generally fly out of Paris.",Y,AC5UD8N187QD6,D0631.M.250.D.G,0
+D0631,82,"There are no movies, video equipment, headphones or telephones on the Concorde.",Y,AC5UD8N187QD6,D0631.M.250.D.G,0
+D0631,83,"A Concorde struck a hotel near Paris in July 2000, killing all 109 aboard and four on the ground.",Y,AC5UD8N187QD6,D0631.M.250.D.G,1
+D0631,84,"The supersonic passenger jet, Concorde, has been flying trans-Atlantic and charter routes for almost 25 years.",Y,AJFJ6VXZJKSXD,D0631.M.250.D.G,0
+D0631,85,"The Concordes carry 100 passengers and a crew of nine.",Y,AJFJ6VXZJKSXD,D0631.M.250.D.G,0
+D0631,86,"After the first crash, all the Concordes were grounded and their future use is uncertain.",Y,AJFJ6VXZJKSXD,D0631.M.250.D.G,0
+D0631,87,"The  Concorde, has been flying trans-Atlantic and charter routes for almost 25 years",Y,AOGFK82SQRJY7,D0631.M.250.D.G,1
+D0631,88,"British airways and Air France are the only companies operating Concordes.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,0
+D0631,89,"The aircraft flies at 1,350 mph.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,1
+D0631,90,"Its journey from London to New York takes about 3 hours and 30 minutes.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,0
+D0631,91,"The cost is $10,000 for a round trip.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,1
+D0631,92,"They carry 100 passengers.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,0
+D0631,93,"They carry a crew of nine.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,0
+D0631,94,"In July 2000, all the Concordes were grounded and their future use is uncertain.",Y,AOGFK82SQRJY7,D0631.M.250.D.G,0
+D0631,95,"On January 21, 1976, the first Concorde passenger flight occured.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,96,"July 25, 2000 was the date of a tragic crash of a Concorde plane near Paris.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,97,"The Concorde fleet consisted of 13 supersonic planes.",Y,AC5UD8N187QD6,D0631.M.250.D.I,1
+D0631,98,"The Concorde flew at 1300 miles an hour, making the transatlantic flight in three and a half hours.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,99,"Flights on the Concorde cost $11,000 per ticket.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,100,"Air France filed a lawsuit against Continental for its role in the crash of the Concorde in 2000.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,101,"Air France paid $20,000 each to surviving families to cover immediate expenses from the 2000 crash.",Y,AC5UD8N187QD6,D0631.M.250.D.I,0
+D0631,102,"The first Concorde passenger flight occurred on 21 January 1976.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,0
+D0631,103,"There were 13 Concorde passenger planes in the fleet.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,1
+D0631,104,"The Concorde main route was from Paris and London to New York.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,1
+D0631,105,"The Concorde passenger plane was able to fly at 1300 miles an hour.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,1
+D0631,106,"The Concorde passenger plane was able to cross the Atlantic ocean in 3.5 hours.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,0
+D0631,107,"The typical ticket price to fly on the Concorde passenger plane was $11,000.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,0
+D0631,108,"All Concorde passenger flights stopped a month after a fatal crash near Paris on 25 July 2000.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,0
+D0631,109,"All 109 passengers on the Concorde plane crash died.",Y,AVQGY7FCU80XP,D0631.M.250.D.I,0
+D0631,110,"The Concorde fleet flew from London and Paris to New York.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,111,"The Concorde made the flight across the Atlantic Ocean in three and a half hours.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,112,"The cost for a ticket on the Concorde was $11,000.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,113,"When the Concorde crashed it killed all on board and 4 on the ground.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,114,"The planes leaving from Paris were immediately grounded after the crash.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,115,"London flights had continued after crash but were cancelled a month later.",Y,A33B85TN97HQ33,D0631.M.250.D.I,0
+D0631,116,"The Concorde had only 100 passenger seats.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,117,"Only twenty Concordes were built.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,118,"Only British Airways and Air France flew Concordes.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,119,"Development of the Concorde began in 1962.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,120,"The Concorde was served by a nine person crew.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,121,"Air France charter flight AF4590 crashed on July 25, 2000.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,1
+D0631,122,"All 109 passengers and crew died in the July 25, 2000 crash.",Y,A9HQ3E0F2AGVO,D0631.M.250.D.H,0
+D0631,123,"Just twenty of the Concordes were built and only British Airways and Air France flew them.",Y,AC5UD8N187QD6,D0631.M.250.D.H,0
+D0631,124,"The first passenger flight of the Concorde was in January 1976.",Y,AC5UD8N187QD6,D0631.M.250.D.H,0
+D0631,125,"The supersonic transport Concorde was a joint Anglo-French development.",Y,A1FYWSPNO7KN1O,D0631.M.250.D.H,1
+D0631,126,"The Concorde could make the flight between New York and London or Paris in less than four hours.",Y,A1FYWSPNO7KN1O,D0631.M.250.D.H,0
+D0631,127,"The Concorde had an impeccable safety record until July 25, 2000.",Y,A1FYWSPNO7KN1O,D0631.M.250.D.H,0
+D0631,128,"All 109 aboard the aircraft died in the Concorde's first crash.",Y,A1FYWSPNO7KN1O,D0631.M.250.D.H,1
+D0631,129,"The Concorde could only fly over ocean areas because of the problems sonic booms would cause over land areas.",Y,A1FYWSPNO7KN1O,D0631.M.250.D.H,1
+D0640,130,"The Kursk was conducting a naval exercise when it sunk.",Y,AC5UD8N187QD6,D0640.M.250.D.D,1
+D0640,131,"One of Russia's largest submarines, the Kursk was commissioned in 1996 and carried a crew of 118.",Y,AC5UD8N187QD6,D0640.M.250.D.D,0
+D0640,132,"15 vessels and warships were involved in the search for the sunken Kursk.",Y,AC5UD8N187QD6,D0640.M.250.D.D,0
+D0640,133,"Russia turned down a French offer of help and Germany's offer of medical specialists.",Y,AC5UD8N187QD6,D0640.M.250.D.D,0
+D0640,134,"The Russians confirmed all aboard were dead on the August 21, 2000.",Y,AC5UD8N187QD6,D0640.M.250.D.D,0
+D0640,135,"Putin vowed to retrieve the bodies of the crew and the vessel itself.",Y,AC5UD8N187QD6,D0640.M.250.D.D,1
+D0640,136,"Plans were made for an unnamed Norwegian company to begin the body retrieval operation on October 10, 2000.",Y,AC5UD8N187QD6,D0640.M.250.D.D,0
+D0640,137,"The Russian submarine Kursk is an atomic powered submarine.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,138,"The Kursk could hold a crew of 118.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,139,"Russia refused help from France and Germany after the Kursk sank.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,140,"Russia asked for help from Britain and Norway in the form of a rescue submarine and divers.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,1
+D0640,141,"The crew of the Kursk was confirmed dead on August 21, 2000.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,142,"According to the United States, the Kursk sank because a torpedo misfired triggering a massive explosion.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,143,"Russia is anticipating that it will cost $45 million to raise the Kursk.",Y,A1DABMXVWWL0TR,D0640.M.250.D.D,0
+D0640,144,"The Kursk was sunk in August 12, 2000 in the Barents Sea.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,145,"The Kursk was sunk during a Russian naval exercise.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,146,"The Kursk was commissioned in 1996 in Russia.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,1
+D0640,147,"The Kursk was able to carry 118 crew members.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,148,"Rescue efforts were suspended after one day of searching for the crew.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,149,"Russia turned away medical specialist help from France and Germany.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,150,"Officials from the United States think that one of the torpedoes on the Kursk misfired and caused an explosion.",Y,A3U21PUMQ6NGT2,D0640.M.250.D.D,0
+D0640,151,"On August 19, 2000, a Russian nuclear submarine sank to the bottom of the Barents Sea.",Y,AC5UD8N187QD6,D0640.M.250.D.G,0
+D0640,152,"The submarine that sunk in 2000 had 118 men aboard.",Y,AC5UD8N187QD6,D0640.M.250.D.G,0
+D0640,153,"The ship's nuclear reactor had been switched off.",Y,AC5UD8N187QD6,D0640.M.250.D.G,0
+D0640,154,"Russian navy rescue efforts were hampered by near zero visibility at the 450 feet depth where the vessel was trapped.",Y,AC5UD8N187QD6,D0640.M.250.D.G,0
+D0640,155,"A British mini-submarine was unable to dock with an escape hatch.",Y,AC5UD8N187QD6,D0640.M.250.D.G,0
+D0640,156,"A Russian nuclear submarine with 118 men aboard sank to the bottom of the Barents Sea.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,0
+D0640,157,"The ship was reported not to be carrying nuclear weapons.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,1
+D0640,158,"Examination with deep-water apparatus indicated it could have been shattered by a blast in its bow.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,0
+D0640,159,"Repeated attempts to dock with an escape hatch failed.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,0
+D0640,160,"Norwegian divers descended with video equipment, surveyed the damage, and ultimately opened an inner hatch.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,0
+D0640,161,"US sonar and other technical sources clearly provided no evidence of a collision.",Y,A38OPVI04AH4JG,D0640.M.250.D.G,1
+D0640,162,"A Russian nuclear submarine sank on August 19, 2000.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,0
+D0640,163,"There were 118 men on the submarine when it sank.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,1
+D0640,164,"The submarine was on a training mission in the Barents Sea.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,1
+D0640,165,"Russian navy rescue efforts were complicated by strong underwater currents and near zero visibility.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,0
+D0640,166,"The condition of the crew could not be determined.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,0
+D0640,167,"Efforts to hook air and fuel lines failed.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,0
+D0640,168,"The Russians signed a contract with Dutch and Belgian companies to retrieve the submarine.",Y,A2NGMLBFZ3YQP5,D0640.M.250.D.G,0
+D0640,169,"Russian submarine Kursk sank on August 12, 2000.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,1
+D0640,170,"Russian rescue attempts of the people aboard the Kursk did not begin until August 15.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,0
+D0640,171,"On Aug 18 the first Russian rescue capsule reached the Kursk's escape hatch.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,0
+D0640,172,"The crew of the Kursk submarine were officially announced dead.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,1
+D0640,173,"President Putin remained on vacation until Aug 19.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,0
+D0640,174,"Norwegian divers opened hatches to Kursk's flooded ninth compartment.",Y,A3CWW9DIL73I14,D0640.M.250.D.F,0
+D0640,175,"The first announcement about Kursk was made on August 14.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,176,"The first Russian rescue capsule reached Kursk on August 18.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,177,"President Putin stayed on his vacation from August 19 to August 21.",Y,A2YO837C0O1E91,D0640.M.250.D.F,1
+D0640,178,"The escape hatch for Kursk was too badly damaged and the mini submarine could not dock.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,179,"During the rescue attempt, there were no bodies found.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,180,"According to NATO, a torpedo misfired and detonated a warhead within Kursk.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,181,"It wasn't until September when Russia began operations to retrieve bodies.",Y,A2YO837C0O1E91,D0640.M.250.D.F,0
+D0640,182,"The first official announcement of the submarine sinking was made on Aug 14, 2000.",Y,AC5UD8N187QD6,D0640.M.250.D.F,1
+D0640,183,"The first Russian rescue attempt to recover the sunk submarine did not begin until Aug 15, 2000.",Y,AC5UD8N187QD6,D0640.M.250.D.F,0
+D0640,184,"The Kursk's escape hatch was too badly damaged to dock in 7 attempts in the strong underwater currents.",Y,AC5UD8N187QD6,D0640.M.250.D.F,0
+D0640,185,"The Russians gave contradictory reports on the Kursk's status and survival chances.",Y,AC5UD8N187QD6,D0640.M.250.D.F,0
+D0640,186,"Russians claimed that the explosion on the submarine was caused by collision with a non-Russian vessel.",Y,AC5UD8N187QD6,D0640.M.250.D.F,0
+D0640,187,"Russia's nuclear submarine Kursk fell to the bottom of the Barents Sea while on a training mission.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,0
+D0640,188,"The 14,000-ton submarine settled 354 to 450 feet down, trapping 118 sailors.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,0
+D0640,189,"Possible causes of the accident were a collision, an onboard explosion, or hitting a WWII mine.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,0
+D0640,190,"The only contact with crew, SOS signals tapped on the hull, stopped Tuesday.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,1
+D0640,191,"The Russian navy had no advanced rescue vessels so several countries, including the US, offered help.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,0
+D0640,192,"On Tuesday it approached NATO about help and by Wednesday accepted British and Norwegian offers.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,0
+D0640,193,"Rescue operations ended two days later when divers opened the hatch and found the sub filled with water.",Y,A3E3RCR51Z8EVP,D0640.M.250.D.C,1
+D0640,194,"Russia's submarine Kursk sunk on August 12, 2000.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,195,"The submarine Kursk weighed 14,000 tons.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,196,"The sinking of the Kursk trapped 118 sailors.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,197,"The Kursk sunk 354 to 450 feet into the ocean.",Y,AC5UD8N187QD6,D0640.M.250.D.C,1
+D0640,198,"Bodies were expected to be recovered from the submarine in October or November.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,199,"Russia rejected an offer from the French government to help with recovery of the submarine.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,200,"There were no survivors on the Kursk.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,201,"The U.S. offered to assist Russia with its recovery efforts.",Y,AC5UD8N187QD6,D0640.M.250.D.C,0
+D0640,202,"August 12, 2000, Russia's nuclear submarine Kursk fell to the bottom of the Barents Sea.",Y,AEECEMJS22D2E,D0640.M.250.D.C,0
+D0640,203,"The 14,000-ton Kursk settled 354 to 450 feet down, trapping 118 sailors.",Y,AEECEMJS22D2E,D0640.M.250.D.C,0
+D0640,204,"The favored Russian explanation for the sinking of the Kursk was a collision.",Y,AEECEMJS22D2E,D0640.M.250.D.C,1
+D0640,205,"The only contact with crew of the Kursk was SOS signals tapped on the hull.",Y,AEECEMJS22D2E,D0640.M.250.D.C,0
+D0640,206,"3 days after it sank, there was no further contact with the crew of the Kursk.",Y,AEECEMJS22D2E,D0640.M.250.D.C,0
+D0640,207,"Russia approached NATO for help rescuing the sailors trapped on board the Kursk.",Y,AEECEMJS22D2E,D0640.M.250.D.C,0
+D0614,0,"Bouchard pledged to hold another referendum if his party won the next election in 1998.",Y,A24DSECWUBZC0Z,D0614.M.250.E.E,0
+D0614,1,"As the November election approached polls indicated that Bouchard had a wide lead over the Liberal (Federalist) candidate.",Y,A24DSECWUBZC0Z,D0614.M.250.E.E,0
+D0614,2,"The issue was presented to the Supreme Court which ruled in August 1998 that Quebec could not separate unilaterally",Y,A24DSECWUBZC0Z,D0614.M.250.E.E,1
+D0614,3,"The Quebec Premier Parizeau resigned after defeat in the referendum",Y,A24DSECWUBZC0Z,D0614.M.250.E.E,0
+D0614,4,"Lucien Bouchard stepped forward to assume the Premiership and leadership of the Party Quebecois",Y,A24DSECWUBZC0Z,D0614.M.250.E.E,1
+D0614,5,"The Quebec separatist movement began in the 1960's.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,6,"The first independence referendum in the province was in May 1980.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,7,"A second referendum in 1995 produced a 49% vote for an independent Quebec",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,8,"Party Quebecois pledged to hold another referendum they won the next election in 1998.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,9,"In 1998 the Supreme Court ruled in that Quebec could not separate unilaterally.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,1
+D0614,10,"Canadian Prime Minister Chretien stated that Quebec could not unilaterally secede without amendment of the Canadian Constitution.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,1
+D0614,11,"After the November 1998 elections polls showed only 41% favoring independence.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,12,"Prime Minister Chretien's definition of what was required for independence antagonized Quebeckers.",Y,A1ZSZ9LDHAYECQ,D0614.M.250.E.E,0
+D0614,13,"The Quebec independence movement began the in the 1960s.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,0
+D0614,14,"More that 80 percent of Quebeckers speak French.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,0
+D0614,15,"The first referendum for Quebec independence was in May of 1980.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,0
+D0614,16,"The second referendum for Quebec independence was in October of 1995.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,1
+D0614,17,"Quebec has experienced serious financial problems.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,0
+D0614,18,"Jean Chretien ruled out independence for Quebec.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,1
+D0614,19,"Bouchard's ruling party won re-election in Quebec in 1998.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,0
+D0614,20,"The Canadian government introduced a bill to make separation more difficult.",Y,AGA1PIIWM8I8D,D0614.M.250.E.J,1
+D0614,21,"More than 80 percent Quebeckers speak French.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,22,"Jacques Parizeau resigned and was replaced by Lucien Bouchard.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,23,"Jean Chretien ruled out any declaration of independence.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,1
+D0614,24,"Quebeckers wanted Bouchard to focus on the economy rather than independence.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,25,"The Supreme Court ruled that Quebec could not separate unilaterally from Canada.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,26,"Quebeckers wanted the government to deal with economic conditions.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,27,"The federal government introduced a bill aimed at making separation attempts more difficult.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.J,0
+D0614,28,"Lucien Bouchard vowed to keep the independence movement alive.",Y,A249LDVPG27XCE,D0614.M.250.E.A,0
+D0614,29,"if a majority of Quebeckers voted in favor of secession, federal officials would be obliged to negotiate.",Y,A249LDVPG27XCE,D0614.M.250.E.A,0
+D0614,30,"The Quebec Premier resigned.",Y,A249LDVPG27XCE,D0614.M.250.E.A,0
+D0614,31,"The separatist movement began in Quebec in the 1960's",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,0
+D0614,32,"The sentiment for breaking up Canada appeared to gain some momentum in recent years.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,1
+D0614,33,"A 1995 a referendum on Quebec independence was defeated.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,1
+D0614,34,"The Supreme Court decided against the constitutionality of unilateral secession.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,0
+D0614,35,"Bouchard is now in a position to work any attempt to provide changes to his advantage.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,0
+D0614,36,"In a 1998 provincial election Bouchard won more seats.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,1
+D0614,37,"Bouchard did not get enough votes to permit another referendum immediately.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,0
+D0614,38,"There is still uncertainty in Quebec.",Y,A2IXBTOWQRCLPZ,D0614.M.250.E.A,1
+D0614,39,"Quebec has a French-speaking majority.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,0
+D0614,40,"People from Quebec have voted on two independence referendums.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,0
+D0614,41,"Lucien Bouchard was Quebec's premier in 1996.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,1
+D0614,42,"Many minorities in Quebec were against secession.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,1
+D0614,43,"A third referendum was never held.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,0
+D0614,44,"The Supreme Court of Canada ruled against unilateral secession in Quebec.",Y,AGA1PIIWM8I8D,D0614.M.250.E.B,0
+D0614,45,"Jean Chretien declared that unilateral secession was illegal.",Y,A249LDVPG27XCE,D0614.M.250.E.B,1
+D0614,46,"Polls indicated most Quebeckers didn't want another referendum.",Y,A249LDVPG27XCE,D0614.M.250.E.B,0
+D0614,47,"Parti Quebecois retained control in 1998 provincial elections.",Y,A249LDVPG27XCE,D0614.M.250.E.B,1
+D0614,48,"In 1999, Chretien proposed legislation making secession attempts difficult for Quebec.",Y,A249LDVPG27XCE,D0614.M.250.E.B,0
+D0614,49,"in 1998 provincial election the party fell short of the 46% of seats in the provincial assembly",Y,A249LDVPG27XCE,D0614.M.250.E.B,0
+D0614,50,"Jean Chretien is the Canadian Prime Minister.",Y,A249LDVPG27XCE,D0614.M.250.E.B,0
+D0605,51,"Various treatments for osteoarthritis have proved effective in relieving pain.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,52,"None of the various treatments for osteoarthritis have proved to be a cure.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,53,"In 2000 the FDA approved meloxican tablets (Mobic).",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,54,"Several dietary supplements are claimed by some patients to be effective.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,55,"The Jacobson resonance machine  emits a weak magnetic field.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,56,"The 'placebo effect is when the patient imagines effectiveness.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,57,"Researchers are also looking at an antibiotic doxycycline.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,58,"Knee replacement can restore mobility.",Y,A249LDVPG27XCE,D0605.M.250.E.E,0
+D0605,59,"There is no cure for osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,0
+D0605,60,"Osteoarthritis can be treated with Ibuprofen.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,0
+D0605,61,"The FDA approved meloxican tablets for the treatment of osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,0
+D0605,62,"HMP-33 is a ginger extract.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,1
+D0605,63,"A Jacobson resonance machine emits a weak magnetic field.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,0
+D0605,64,"Researchers are testing doxycycline for the treatment of osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,1
+D0605,65,"Hip replacement can restore mobility in some sufferers of osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,1
+D0605,66,"Experts agree that weight loss helps in the treatment of osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.E,1
+D0605,67,"18.5 million Americans are affected by osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,68,"Most sufferers of osteoarthritis are over 45.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,69,"Osteoarthritis breaks down cartilage of the bones.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,70,"Acetaminophen is used to treat osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,71,"Surgery is often used to treat osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,1
+D0605,72,"Some people believe acupuncture can treat osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,73,"Research has raised doubts about nontraditional treatments of osteoarthritis.",Y,AGA1PIIWM8I8D,D0605.M.250.E.J,0
+D0605,74,"Osteoarthritis is the most common type of arthritis.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,0
+D0605,75,"Osteoarthritis is a degenerative joint disease.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,1
+D0605,76,"Osteoarthritis causes pain and limits movement.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,0
+D0605,77,"Pain relievers and anti-inflammatory drugs help ease the symptoms.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,1
+D0605,78,"Surgery is used to relieve pain from Osteoarthritis.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,1
+D0605,79,"Exercise and weight control can treat Osteoarthritis.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,0
+D0605,80,"Osteoarthritis is most often found in the fingers and weight-bearing joints.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,0
+D0605,81,"COX-2 inhibitors are used to reduce inflammation.",Y,AB5IVPS4OP9M8,D0605.M.250.E.J,0
+D0605,82,"Other non-traditional treatments include ginger extract HMP-33.",Y,A249LDVPG27XCE,D0605.M.250.E.A,0
+D0605,83,"Electromagnetic resonance is still being tested.",Y,A249LDVPG27XCE,D0605.M.250.E.A,1
+D0605,84,"Studies on acupuncture suggest improvement may be psychological.",Y,A249LDVPG27XCE,D0605.M.250.E.A,0
+D0605,85,"Research shows HMP-33 give relief from pain with no negative side effects.",Y,A249LDVPG27XCE,D0605.M.250.E.A,0
+D0605,86,"Weight loss is recommended.",Y,A249LDVPG27XCE,D0605.M.250.E.A,1
+D0605,87,"There is no evidence to back up claims of copper bracelets.",Y,A249LDVPG27XCE,D0605.M.250.E.A,1
+D0605,88,"Three new NSAIDS containing COX-2 (cyclooxygenase-2) inhibitors have been developed.",Y,A249LDVPG27XCE,D0605.M.250.E.A,0
+D0605,89,"Acetaminophens treat pain.",Y,AK3H5QRAROFGP,D0605.M.250.E.A,0
+D0605,90,"Hyaluronan is an injectable drug.",Y,AK3H5QRAROFGP,D0605.M.250.E.A,0
+D0605,91,"Nutritional supplements are trendy for treating osteoarthritis.",Y,AK3H5QRAROFGP,D0605.M.250.E.A,0
+D0605,92,"Meloxicam causes few gastrointestinal complications.",Y,AK3H5QRAROFGP,D0605.M.250.E.A,0
+D0605,93,"There is no evidence to support the effectiveness of copper bracelets.",Y,AK3H5QRAROFGP,D0605.M.250.E.A,1
+D0605,94,"The treatment of osteoarthritis includes the use of aspirin.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,95,"Non-steroidal anti-inflammatory drugs cause liver damage.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,96,"Non-steroidal anti-inflammatory drugs cause gastrointestinal bleeding.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,97,"New cox-2 inhibitor drugs have fewer gastrointestinal side effects.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,98,"Vitamin E eases arthritis pain.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,99,"Copper bracelets have been proven ineffective.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,0
+D0605,100,"Tai chi has not been proven effective.",Y,A3TS2NCBAB9L6V,D0605.M.250.E.B,1
+D0605,101,"Studies show that glucosamine relieves pain.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,0
+D0605,102,"Beta-carotene reduces the risk of osteoarthritis.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,0
+D0605,103,"The FDA is studying the use of electromagnetic resonance.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,0
+D0605,104,"No studies yet support the effectiveness of Tai chi.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,1
+D0605,105,"No studies yet support the effectiveness of acupuncture.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,0
+D0605,106,"No studies yet support the effectiveness of methyl sulfonyl methane.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,0
+D0605,107,"Chondroitin stops joint degeneration.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,1
+D0605,108,"Vitamin C reduces the risk of osteoarthritis.",Y,AJQGWGESKQT4Y,D0605.M.250.E.B,1
+D0603,109,"The Wetlands are a natural ecological system sometimes called 'Earth's kidney'.",Y,AU01P6YB9J5JX,D0603.M.250.C.A,1
+D0603,110,"The Wetlands serve as a habitat for numerous varieties of flora and fauna.",Y,AU01P6YB9J5JX,D0603.M.250.C.A,0
+D0603,111,"Wetlands are sometimes called 'Earth's kidney'.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,1
+D0603,112,"Wetlands are important for flood prevention.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,0
+D0603,113,"Industrialization reduces the amounts of wetland acreage.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,1
+D0603,114,"Wetlands Internation was launced in 1996.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,0
+D0603,115,"China has established wetland reserves.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,0
+D0603,116,"The World Bank is approving loans to Vietnam for wetlands protection.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,1
+D0603,117,"Several states have projects for creating manmade wetlands.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,0
+D0603,118,"Wetlands serve as a habitat for numerous varieties of flora.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.A,0
+D0603,119,"Wetlands are important in regulating climate.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,120,"Wetlands are of vital economic importance to Asia.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,121,"Human activities threaten wetlands.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,122,"The Ramsar convention aims to conserve wetland habitats.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,123,"Uganda established an environmental abuse reporting hot line.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,124,"The US clean Water Act mandated Corps of Engineers regulation of wetlands.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,1
+D0603,125,"Protecting wetlands has been hindered by developers.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,0
+D0603,126,"Hindrance by humans has led to beaver damage.",Y,AGA1PIIWM8I8D,D0603.M.250.C.C,1
+D0603,127,"The phrase earth kidneys are known to describe wetlands.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,0
+D0603,128,"Earth kidneys filter pollutants and preserve the biodiversity of the wetlands.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,1
+D0603,129,"This filtration system is cost effective and does not cost much to maintain.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,1
+D0603,130,"These wetlands are also of vital importance to the lands infrastructure and eco system.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,0
+D0603,131,"Recently, there is more global awareness being raised among countries that are concerned with preserving this eco system.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,0
+D0603,132,"In 1996 a nationwide permit system was enforced to strictly prohibit using more acreage in the New York areas.",Y,A1DCKRRPA4AWVD,D0603.M.250.C.C,0
+D0603,133,"Pieces of land that remain underwater for part of the year are called wetlands.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,1
+D0603,134,"Marshlands, lakes, rivers, and swamps could potentially be wetlands.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,0
+D0603,135,"Wetlands help control floods, conserve water, and prevent erosion of soil.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,0
+D0603,136,"The Ramsat Convention on Wetlands was ratified by China as well as other countries.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,1
+D0603,137,"The U.S. loses 70 to 100 thousand acres of wetlands every year.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,0
+D0603,138,"The Clean Water Act has a loophole that led to 20,000 acres of wetlands being destroyed.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,0
+D0603,139,"Pressure from the Army Corps of Engineers' headquarters led them to stop enforcing wetland protection.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,0
+D0603,140,"Increased water consumption and climate change are some of the factors reducing wetlands area.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.J,1
+D0603,141,"Wetlands are bodies of land under water at least part of the year.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,142,"Wetlands are threatened worldwide.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,143,"Wetlands in the US are disappearing at the rate of about 70,000 to 100,000 acres a year.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,144,"China has increased public awareness of the importance of wetland protection.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,145,"Uganda ratified the Ramsat treaty.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,1
+D0603,146,"Efforts to preserve wetlands have encountered setbacks.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,147,"In the US, the Army Corps of Engineers has retreated from enforcing the main law protecting wetlands.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,148,"A loophole in the Clean Water Act led to the destruction of some 20,000 acres of wetlands.",Y,A2IXBTOWQRCLPZ,D0603.M.250.C.J,0
+D0603,149,"The term wetlands describes marshes.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,0
+D0603,150,"Wetlands play important roles in filtering.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,0
+D0603,151,"Wetlands play important roles preventing soil erosion.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,1
+D0603,152,"Wetlands play important roles in preventing pollution.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,0
+D0603,153,"Wetlands are endangered by human draining draining.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,0
+D0603,154,"Wetlands are endangered by development.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,1
+D0603,155,"More than half of the wetlands have been lost.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,0
+D0603,156,"Efforts of the Environmental Protection Agency were thwarted by the Army Corps of Engineers.",Y,AJQGWGESKQT4Y,D0603.M.250.C.E,1
+D0603,157,"Wetlands are areas usually between land and bodies of water.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,158,"Wetlands provide a home for fish, wild plants, and birds.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,159,"Wetlands help cleanse water and prevent water pollution.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,160,"Human development is contributing to wetland destruction.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,161,"The Ramsar Convention of 1971 was signed by 90 nations.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,162,"The Army Corps of Engineers incorporated stricter regulations on protecting wetlands by 2000.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,1
+D0603,163,"The Army Corps of Engineers initially stood in opposition to wetland protection.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0603,164,"Since the late 18th century, more than half of U.S. wetlands have been destroyed.",Y,A22I5RTLJTY3JZ,D0603.M.250.C.E,0
+D0608,165,"One of the most effective automobile safety devices is the seat belt.",Y,A3T6Q7YJQXYZ2Z,D0608.M.250.H.E,0
+D0608,166,"The state of New Jersey authorized police to stop and ticket drivers who do not wear seat belts.",Y,A3T6Q7YJQXYZ2Z,D0608.M.250.H.E,1
+D0608,167,"Although there are weaknesses, when it comes to vehicular safety the safety belt was a critical invention.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,1
+D0608,168,"These weaknesses lies not in the safety belt itself but in simple human failure to utitlize this invention.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,0
+D0608,169,"Within the United States alone there are estimates that only 68 percent of drivers use a safety belt.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,1
+D0608,170,"Looking back twenty years, in 1980 the invention of airbags in cars was developed.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,0
+D0608,171,"Although a good invention, side air bags weren't implemented until later.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,1
+D0608,172,"And although an important and useful feature, child saftey seats were complicated to most who used them.",Y,A1DCKRRPA4AWVD,D0608.M.250.H.E,0
+D0608,173,"Airbags should not injure.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,0
+D0608,174,"Interior cushioning is used to avoid head injuries.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,1
+D0608,175,"Crash tests should include dummies.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,0
+D0608,176,"Anti-lock brakes contribute to avoiding an accident.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,0
+D0608,177,"Black boxes record data.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,1
+D0608,178,"Devices prevent deployment when passengers are too small..",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,0
+D0608,179,"Side airbags can be deactivated.",Y,AJQGWGESKQT4Y,D0608.M.250.H.D,1
+D0608,180,"The seat belt is a safety device.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,181,"Getting people to use seat remains a problem.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,182,"The problem of getting people to use seat belts has been addressed by installing use-sensors.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,183,"Side airbags are being installed ton prevent injuries in side collisions or rollovers.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,1
+D0608,184,"Crash tests are beginning in China.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,185,"Engineers are seeking ways to avoid accidents in the first place.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,186,"States are enacting graduated licensing laws to limit new drivers until they gain experience.",Y,A3GWRDHAURRNK6,D0608.M.250.H.D,0
+D0608,187,"One maker offers a curtain-like side air bag to add a measure of safety during a rollover.",Y,A249LDVPG27XCE,D0608.M.250.H.H,0
+D0608,188,"Improperly installed child seats have been responsible for children injuries.",Y,A249LDVPG27XCE,D0608.M.250.H.H,1
+D0608,189,"Some auto dealers are offering free assistance in the proper installation of children's seats.",Y,A249LDVPG27XCE,D0608.M.250.H.H,0
+D0608,190,"Researchers have suggested using 'black boxes' in cars.",Y,A249LDVPG27XCE,D0608.M.250.H.H,0
+D0608,191,"Anti-lock brakes are a very important safety factor.",Y,A249LDVPG27XCE,D0608.M.250.H.H,0
+D0608,192,"Most auto safety experts believe the seat belt is the single most effective auto safety device.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,1
+D0608,193,"Some states are enacting laws to require seat belt usage.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,1
+D0608,194,"Some auto makers are installing audio and visual signals to show when belts are not engaged.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,1
+D0608,195,"Rear seat air bags are now available from many manufacturers.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,0
+D0608,196,"Improperly installed child seats have been responsible for children fatalities.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,0
+D0608,197,"Some autos have adjustable pedals.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,0
+D0608,198,"Crash tests provide valuable information for safety planners.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,0
+D0608,199,"Some bags inflating in low speed crashes have been blamed for killing several people.",Y,A2IXBTOWQRCLPZ,D0608.M.250.H.H,0
+D0608,200,"Many automakers initially resisted the introduction of airbags.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,201,"Many automakers claimed that airbags were unwanted by consumers.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,202,"Volvo luxury models featured advanced antilock braking.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,203,"The Ford Windstar offered a side airbag.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,204,"Mercedes and BMW had airbag curtains that could help in rollovers.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,205,"New headlight systems became available.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,1
+D0608,206,"By 1999, many automakers offered safety features to help promote sales.",Y,A3TS2NCBAB9L6V,D0608.M.250.H.J,0
+D0608,207,"Some Automakers initially resisted the introduction of safety features.",Y,ACAJFF4MF5S5X,D0608.M.250.H.J,0
+D0608,208,"Automakers claimed safety features were unwanted by consumers.",Y,ACAJFF4MF5S5X,D0608.M.250.H.J,0
+D0608,209,"An 'inflatable curtain,' is Volvo's version of a side airbag system.",Y,ACAJFF4MF5S5X,D0608.M.250.H.J,1
+D0608,210,"ACE is a computer-assisted active cornering enhancement.",Y,ACAJFF4MF5S5X,D0608.M.250.H.J,1
+D0608,211,"All wheel drive became available from Subaro, Volvo, and Mercedes.",Y,ACAJFF4MF5S5X,D0608.M.250.H.J,1
+D0616,0,"Chechnya is a small Muslim nation.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,1,"Chechnya is another name for The Chechen Republic.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,2,"In 1991, the Chechen Republic declared its independence.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,1
+D0616,3,"The Soviet Union in broke up in 1991.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,4,"Russia maintained that Chechnya did not have the right to secede.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,1
+D0616,5,"Russia sent troops to the Caucus region in December 1994.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,6,"A war raged between 1994 and 1996.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,7,"In 1996, accords were signed granting Chechnya de facto independence.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.J,0
+D0616,8,"During the breakup of the Soviet Union in 1991, Chechnya declared its independence.",Y,A2IU5TX5S0FA1C,D0616.M.250.G.J,1
+D0616,9,"From 1994 to 1996, a war between Chechnya and Russia resulted in the loss of thousands of Russian lives.",Y,A2IU5TX5S0FA1C,D0616.M.250.G.J,0
+D0616,10,"In August and September of 1999, armed Chechen groups invaded neighboring Dagestan, inflicting heavy casualties on Russian troops.",Y,A2IU5TX5S0FA1C,D0616.M.250.G.J,1
+D0616,11,"In mid-2000, Russia claimed they suffered 2,240 killed and 6,372 wounded from conflicts with Chechnya.",Y,A2IU5TX5S0FA1C,D0616.M.250.G.J,0
+D0616,12,"Boris Yeltsin warned more terrorist attacks would be dealt with severely.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,0
+D0616,13,"In March 1996, Chechnya won de facto independence.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,0
+D0616,14,"Yeltsin expressed support for Chechnya's government.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,0
+D0616,15,"By 1999, Russian air raids escalated along the Chechen border.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,1
+D0616,16,"A spate of terrorist acts killed over 300 in Russian cities.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,0
+D0616,17,"By the end of 1999, Russian troops occupied over 60% of Chechnya.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,1
+D0616,18,"During 2000, the Chechen rebels launched isolated attacks.",Y,A2VR9O234UCT9T,D0616.M.250.G.A,0
+D0616,19,"In December 1994 Russian troops were sent into Chechnya to crush a separatist drive",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,1
+D0616,20,"Dzhokhar Dudayev led the separatist drive.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,0
+D0616,21,"In March 1996 Boris Yeltsin halted the offensive.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,1
+D0616,22,"Yeltsin promised free and democratic elections.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,0
+D0616,23,"Yeltsin suggested amnesty for some combatants.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,0
+D0616,24,"At this time Chechnya won de facto independence.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,0
+D0616,25,"However, Chechnya was left devastated and lawless.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.A,0
+D0616,26,"In December of 1994 the Russian government made statements indicating an intention to withdraw from Chechnya.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,27,"The withdrawal from Chechnya will be stage by stage.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,28,"The Russian government made statements indicating that Chechnya will remain in the Russian Confederation after the withdrawal.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,29,"Russia launched an anti-terrorist campaign into Chechnya in August of 1998.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,30,"Russia claimed that a provocation for 1998 invasion was hostage taking performed by Chechen rebels.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,31,"In November of 2000 Russians occupied sixty percent of Chechen territory.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,0
+D0616,32,"During the Russian invasion 3600 Chechen civilians were killed.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,1
+D0616,33,"Post-invasion, Russian forces in Chechnya are still subject to hit and run attacks by rebel forces.",Y,A1C7UV2UT2S9T7,D0616.M.250.G.G,1
+D0616,34,"The Russian government has been fighting against Chechen separatists since December 1994.",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,1
+D0616,35,"The Russian government announced its intention to withdraw troop from Chechnya",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,0
+D0616,36,"Some troops will stay behind and respond to any attacks from the rebels",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,0
+D0616,37,"The Russians say Chechnya must stay within the Russian Confederation.",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,1
+D0616,38,"The Russians sent in some 30,000 troops to partition Chechnya.",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,0
+D0616,39,"By November 2000, the Russians occupied 60% of Chechen territory.",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,0
+D0616,40,"Some 3,600 Chechen civilians were killed.",Y,A2YKW761AK4ZGY,D0616.M.250.G.G,0
+D0616,41,"Russia occupied Chechnya in 1994-1996.",Y,A3L4JI1S352HB8,D0616.M.250.G.E,0
+D0616,42,"Tens of thousands of lives were lost in the 1994-1996 Chechen war",Y,A3L4JI1S352HB8,D0616.M.250.G.E,0
+D0616,43,"Russians claimed that air strikes had killed more than 2,000 Chechen rebels.",Y,A3L4JI1S352HB8,D0616.M.250.G.E,1
+D0616,44,"The Chechens said air strikes had killed 550 civilians.",Y,A3L4JI1S352HB8,D0616.M.250.G.E,1
+D0616,45,"In November 1999 Russia announced its intent to liberate all of Chechnya by February 2000.",Y,A3L4JI1S352HB8,D0616.M.250.G.E,0
+D0616,46,"On July 20, 2000 the Russian government announced its troop casualties since Aug. 2, 1999 as 2,518 killed.",Y,A3L4JI1S352HB8,D0616.M.250.G.E,0
+D0616,47,"Fighting still continues in Chechnya between Chechen guerrillas and Russian Government",Y,A3L4JI1S352HB8,D0616.M.250.G.E,0
+D0616,48,"Chechen rebels have fought against the Russian government.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,1
+D0616,49,"Terrorist attacks have been launched in major Russian cities as well as in border lands and Chechnya itself.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,0
+D0616,50,"Russians responded with all-out attempts to occupy Chechnya in 1994-96.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,1
+D0616,51,"After August 2, 1999,  Russians secured borders with Chechnya.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,0
+D0616,52,"Attempts to subdue Chechen militants through occupation of their homeland have proved costly and ineffective.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,0
+D0616,53,"The 1994-96 war cost tens of thousands of lives.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,0
+D0616,54,"In 1999 Russian forces had occupied only 1/3 of Chechnya.",Y,A2Q3FS9G8ITCN7,D0616.M.250.G.E,0
+D0620,55,"The school districts took measures included posting armed security officers in schools",Y,A2YKW761AK4ZGY,D0620.M.250.B.J,0
+D0620,56,"Teachers and principals were trained on responding to armed intruders.",Y,A2YKW761AK4ZGY,D0620.M.250.B.J,0
+D0620,57,"12 students were killed at the fatal shootings at Columbine High School.",Y,A2YKW761AK4ZGY,D0620.M.250.B.J,0
+D0620,58,"2 students were involved in the shooting at Columbine high School.",Y,A2YKW761AK4ZGY,D0620.M.250.B.J,0
+D0620,59,"One teacher was killed in the shooting at Columbine High School.",Y,A2YKW761AK4ZGY,D0620.M.250.B.J,0
+D0620,60,"Schools have taken measures to prevent school violence and shootings.",Y,A22VACRM9GC73M,D0620.M.250.B.J,0
+D0620,61,"The killers in the Columbine incident were isolated and picked on by other students.",Y,A22VACRM9GC73M,D0620.M.250.B.J,0
+D0620,62,"Measures were taken by schools to deter violence by emphasizing the climate rather than its physical security measures.",Y,A22VACRM9GC73M,D0620.M.250.B.J,0
+D0620,63,"Two students killed 12 classmates and a teacher at Columbine High School.",Y,A22VACRM9GC73M,D0620.M.250.B.J,1
+D0620,64,"School teachers and principals were trained on conducting lockdowns.",Y,A22VACRM9GC73M,D0620.M.250.B.J,1
+D0620,65,"Schools tightened access to campuses and improving screening for visitors.",Y,A22VACRM9GC73M,D0620.M.250.B.J,1
+D0620,66,"Well-publicized school shootings took place in Colorado, Mississippi, Kentucky, Arkansas, and Oregon.",Y,A22VACRM9GC73M,D0620.M.250.B.J,1
+D0620,67,"School administrators are suspending any student who makes threats.",Y,A2Q3FS9G8ITCN7,D0620.M.250.B.I,0
+D0620,68,"The goal is to create a positive group atmosphere and to heal troubled students.",Y,A2Q3FS9G8ITCN7,D0620.M.250.B.I,0
+D0620,69,"Another innovation in these schools is sponsoring a chapter of SAVE, Students Against Violence Everywhere.",Y,A2Q3FS9G8ITCN7,D0620.M.250.B.I,0
+D0620,70,"Federal government studies have shown that young people are safe in school",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,1
+D0620,71,"There were violent occurrences in Littleton, Colorado and Jonesboro, Arkansas.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,1
+D0620,72,"School officials nationwide are taking precautions to prevent violence in their schools.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,0
+D0620,73,"Lock-down practice has become commonplace.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,1
+D0620,74,"Some school districts are requiring school uniforms.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,1
+D0620,75,"Canvas book bags are banned in some places.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,0
+D0620,76,"Many districts have gun-free campaigns.",Y,A2YKW761AK4ZGY,D0620.M.250.B.I,0
+D0620,77,"Schools have had to implement measures to prevent tragedies due to violent occurrences and shootings.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,0
+D0620,78,"Police offers are often assigned to schools, some armed.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,1
+D0620,79,"Some schools require a dress code that does not allow baggy clothing.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,0
+D0620,80,"Schools have established hot lines and tip boxes to find out about students with problems that could lead to violence.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,0
+D0620,81,"Schools are trying to address the root cause of violent and anti-social behavior.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,0
+D0620,82,"Some preventative measures are metal detectors and surveillance cameras.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,1
+D0620,83,"Some schools have removed lockers that could be used to store weapons.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,0
+D0620,84,"At some schools, backpacks are prohibited.",Y,A1CY01G7686ORZ,D0620.M.250.B.H,1
+D0620,85,"Shootings resulting in the deaths of students and teachers have forced school authorities to implement measures to prevent more tragedy.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,86,"Schools have made modifications or additions such as installing metal detectors and surveillance cameras.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,87,"Greater involvement with law enforcement officials has led to police officers being assigned to schools.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,88,"Some officers are armed and some bring dogs trained to sniff out explosives.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,89,"Some schools require 'see through' book bags and prohibit backpacks.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,90,"More schools are beginning to address the root causes of anti-social and violent behavior.",Y,AC5UD8N187QD6,D0620.M.250.B.H,0
+D0620,91,"Hot lines and tip boxes have been established to identify students with problems that could lead to violence.",Y,AC5UD8N187QD6,D0620.M.250.B.H,1
+D0620,92,"School systems are requiring accurate and timely reporting and tracking of threats and incidents.",Y,A2IU5TX5S0FA1C,D0620.M.250.B.B,0
+D0620,93,"One Kentucky school district posted the Ten Commandments in each classroom.",Y,A2IU5TX5S0FA1C,D0620.M.250.B.B,0
+D0620,94,"20 states have laws requiring school safety plans.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,0
+D0620,95,"Mississippi broadened its death penalty law to include killings on school campuses.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,1
+D0620,96,"The federal Gun Free Schools Act requires states enact school safety laws to receive federal aid.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,0
+D0620,97,"Schools keep all but main doors locked.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,0
+D0620,98,"Schools do lockdown drills.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,1
+D0620,99,"In some districts, police SWAT teams train at schools after hours.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,0
+D0620,100,"Children are being taught to better deal with problems before they grow into rage.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,1
+D0620,101,"In some districts  security staff and local police maintain blueprints of local schools.",Y,A2YKW761AK4ZGY,D0620.M.250.B.B,1
+D0624,102,"On April 22, 1993 five young white men stabbed Stephen Lawrence.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,1
+D0624,103,"Lawrence was an 18 year old black youth.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,0
+D0624,104,"Lawrence was stabbed at a bus stop in London.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,1
+D0624,105,"Police provided Lawrence no first aid.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,0
+D0624,106,"Lawrence bled to death.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,1
+D0624,107,"Police treated Lawrence's grieving parents badly.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,0
+D0624,108,"The case collapsed before trial.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,0
+D0624,109,"In 1996 Stephen's parents initiated a civil suit.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.F,1
+D0624,110,"In Feb 1999, a government report found London's police force 'riven with pernicious and institutionalized racism'.",Y,A2IU5TX5S0FA1C,D0624.M.250.F.F,0
+D0624,111,"A play about Stephen Lawrence's 1993 murder is called Color of Justice.",Y,A2IU5TX5S0FA1C,D0624.M.250.F.F,0
+D0624,112,"Stephens Lawrence was murdered on April 22, 1993.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,113,"Lawrence was murdered while he waited at a bus stop.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,114,"Lawrence was murdered by a gang of white males.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,115,"Three members of the gang were charged with murder.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,116,""The Color of Justice" was a popular play about the incident.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,117,"Laws were put into place making racial discrimination an offense.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,1
+D0624,118,"A scholarship for minority students in memory of Lawrence was started.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,119,"After this incident, racism in the police department was brought to light.",Y,A1CY01G7686ORZ,D0624.M.250.F.I,0
+D0624,120,"The racially-motivated murder was committed by a gang of white males.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,1
+D0624,121,"London police were slow to act in trying to save Lawrence's life.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,0
+D0624,122,"Eventually police charged three members of the gang for murder.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,1
+D0624,123,"Their investigation was so flawed that the state prosecution had to abandon the case.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,0
+D0624,124,"Stephen's parents publicly pursued justice for their son.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,0
+D0624,125,"Stephen's parents brought two suspects to civil court.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,0
+D0624,126,"Racism in the police department was exposed.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.I,1
+D0624,127,"Stephen Lawrence was stabbed to death at a London bus stop in April 1993.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,1
+D0624,128,"Lawrence was the son of Jamaican immigrant parents.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,0
+D0624,129,"He was attacked by five white youths with a history of race baiting.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,0
+D0624,130,"Three of the alleged killers were tried and acquitted.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,1
+D0624,131,"Charges against the other two were dropped for insufficient evidence.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,0
+D0624,132,"London's Metropolitan Police were found to be 'riven with pernicious and institutionalized racism'.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,0
+D0624,133,"Public confidence in the police had fallen.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,0
+D0624,134,"The Labor government of Tony Blair promised a radical overhaul of race discrimination laws.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.H,1
+D0624,135,"One fifth of London's population are minorities.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,136,"94% of British citizens are white.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,137,"An architecture scholarship was launched by Prince Charles to honor Lawrence's memory.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,138,"Of Lawrence's five assailants, three were acquitted.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,139,"Stephen Lawrence was attacked in April 1993 at a London bus stop.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,1
+D0624,140,"Stephen Lawrence was 18 years old and the child of Jamaican immigrants.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,141,"Just over 2% of London's police force are minorities.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,142,"Athena was the name of a the crackdown on racist crimes in London.",Y,A3GQ6KDIZWCMW6,D0624.M.250.F.H,0
+D0624,143,"Three of five suspects in the killing were questioned and released.",Y,A2YKW761AK4ZGY,D0624.M.250.F.B,0
+D0624,144,"None of the suspects were brought to trial.",Y,A2YKW761AK4ZGY,D0624.M.250.F.B,1
+D0624,145,"Lawrence's parents filed a civil lawsuit against the suspects.",Y,A2YKW761AK4ZGY,D0624.M.250.F.B,0
+D0624,146,"Three suspects were acquitted in the civil suit.",Y,A2YKW761AK4ZGY,D0624.M.250.F.B,1
+D0624,147,"On April 22, 1993, Stephen Lawrence was stabbed to death at a London bus stop.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,1
+D0624,148,"Stephen Lawrence was an eighteen-year-old black youth.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,0
+D0624,149,"Lawrence was stabbed to death by a group of white attackers.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,0
+D0624,150,"His killing became the focus of debate over relations between police and ethnic minorities.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,0
+D0624,151,"Police acted slowly and incompetently investigating his murder.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,1
+D0624,152,"Five years after his killing, the Metropolitan Police Commissioner apologized to the teen's parents.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,0
+D0624,153,"Seven years after the killing, three of the five suspected killers were arrested for the murder.",Y,A2Q3FS9G8ITCN7,D0624.M.250.F.B,0
+D0627,154,"The US ratified the Hague Convention on Intercountry Adoption in July 2000.",Y,A1C0H8G0YI15MN,D0627.M.250.I.G,0
+D0627,155,"The Hague Convention on Intercountry Adoption, which was created to harmonize the adoption practices of different countries.",Y,A1C0H8G0YI15MN,D0627.M.250.I.G,0
+D0627,156,"The Hague Convention on Intercountry Adoption, which was created to improve the treatment of children.",Y,A1C0H8G0YI15MN,D0627.M.250.I.G,1
+D0627,157,"China now requires foreigners to provide extensive background information",Y,A1C0H8G0YI15MN,D0627.M.250.I.G,0
+D0627,158,"In July 2000, the US ratified the Hague Convention on Intercountry Adoption.",Y,AC5UD8N187QD6,D0627.M.250.I.G,1
+D0627,159,"The Hague Convention on Intercountry Adoption was created to establish guidelines for international adoptions.",Y,AC5UD8N187QD6,D0627.M.250.I.G,0
+D0627,160,"Russia and China are the primary sources for adoption by Americans.",Y,AC5UD8N187QD6,D0627.M.250.I.G,0
+D0627,161,"Russia and China passed laws that put tighter restrictions on the procedures for adoption.",Y,AC5UD8N187QD6,D0627.M.250.I.G,0
+D0627,162,"Russia passed a law giving Russians more control over foreign adoptions.",Y,AC5UD8N187QD6,D0627.M.250.I.G,1
+D0627,163,"China requires foreigners to sign and register agreement with the Chinese government prior to adoption.",Y,AC5UD8N187QD6,D0627.M.250.I.G,0
+D0627,164,"Supply of children for adoption in foreign countries exceeds demand in the US.",Y,AC5UD8N187QD6,D0627.M.250.I.G,1
+D0627,165,"Some children adopted from orphanages that have horrific conditions develop anti-social behavior.",Y,AC5UD8N187QD6,D0627.M.250.I.G,0
+D0627,166,"The Hague Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption was ratified in 1993.",Y,A2YKW761AK4ZGY,D0627.M.250.I.F,1
+D0627,167,"The U.S. signed it in 1994, but did not ratify and implement it until 2000.",Y,A2YKW761AK4ZGY,D0627.M.250.I.F,0
+D0627,168,"U.S. families and their foreign adoptees struggle with race and culture identity, and racial bias.",Y,A2YKW761AK4ZGY,D0627.M.250.I.F,0
+D0627,169,"Abortion was legalized in 1973.",Y,A2YKW761AK4ZGY,D0627.M.250.I.F,1
+D0627,170,"In 1998 Guatemala suspended all foreigner adoptions.",Y,A2YKW761AK4ZGY,D0627.M.250.I.F,0
+D0627,171,"The U.S. signed the Hague Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption in 1994.",Y,A22VACRM9GC73M,D0627.M.250.I.F,1
+D0627,172,"The U.S. ratified the Hague Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption in 2000.",Y,A22VACRM9GC73M,D0627.M.250.I.F,0
+D0627,173,"Internationally there are far more orphans than adoptive parents.",Y,A22VACRM9GC73M,D0627.M.250.I.F,0
+D0627,174,"Chinese law restricts foreigner adoptions.",Y,A22VACRM9GC73M,D0627.M.250.I.F,1
+D0627,175,"Russia tightened control over foreigner adoptions.",Y,A22VACRM9GC73M,D0627.M.250.I.F,0
+D0627,176,"Russia exports more adopted children than any other country.",Y,A22VACRM9GC73M,D0627.M.250.I.F,0
+D0627,177,"Cambodia approves foreigner adoptions that meet the adopting country's law.",Y,A22VACRM9GC73M,D0627.M.250.I.F,0
+D0627,178,"The UN Hague Convention treaty was approved by US Congress in 2000.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,1
+D0627,179,"The UN Hague Convention on International Adoptions offered guidelines for reform.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,0
+D0627,180,"Most international adoptees look different than their white, middle-class parents.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,0
+D0627,181,"The children felt disassociated from their birth heritage.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,1
+D0627,182,"Today would-be parents are screened for cultural sensitivity.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,1
+D0627,183,"Families join adoption-support groups.",Y,A2YKW761AK4ZGY,D0627.M.250.I.I,0
+D0627,184,"In 1999, 16,396 adopted children came to the US from abroad.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.I,0
+D0627,185,"Korea is the first nation from which US citizens systematically adopted children.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.I,1
+D0627,186,"Korean children, who were adopted but are now adults, have said they felt disassociated from their birth heritage.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.I,0
+D0627,187,"The United States has ratified the Convention.",Y,A2Q3FS9G8ITCN7,D0627.M.250.I.H,0
+D0627,188,"Some US legislators proposed implementing legislation that would preclude homosexuals and others with 'promiscuous lifestyles' from adopting children.",Y,A2Q3FS9G8ITCN7,D0627.M.250.I.H,0
+D0627,189,"In many cases those laws specify a one-child adoption limit.",Y,A2Q3FS9G8ITCN7,D0627.M.250.I.H,0
+D0627,190,"Many US couples look to international adoptions because of a smaller and smaller supply of white American-born infants.",Y,A2Q3FS9G8ITCN7,D0627.M.250.I.H,0
+D0627,191,"The Hague Convention on Intercountry Adoptions establishes safeguards so that international adoptions meet global standards to protect children.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,1
+D0627,192,"Russia has replaced China as the nation providing most children for adoption in the US.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,0
+D0627,193,"Russia and China have been amending their laws to prevent abuses in adoptions.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,0
+D0627,194,"International adoption by US families notably traces to adoption of Korean orphans after the Koran War.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,1
+D0627,195,"In many foreign countries the supply of babies for adoption exceeds the demand.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,1
+D0627,196,"Cultural awareness events and support groups are being formed in the US for adoptive parents.",Y,A2IU5TX5S0FA1C,D0627.M.250.I.H,1
+D0615,197,"Scientists see evolution as one of five unifying concepts linking all scientific disciplines.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.E,0
+D0615,198,"Scientists creationism as a literal reading of Genesis clearly contradicted by science and intelligent design.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.E,0
+D0615,199,"Supporters of creationism are primarily fundamentalist Christians who have faith in the literal truth of the Bible.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.E,0
+D0615,200,"Some condemn the teaching of evolution as a form of secular humanism undermining religions, social and cultural values.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.E,1
+D0615,201,"Two basic perspectives are at the core of the debate over teaching of evolution",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,1
+D0615,202,"Science teachers and their supporters see evolution as one of five unifying concepts linking all scientific disciplines.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,1
+D0615,203,"Supporters of creationism, creation science, and intelligent design are primarily fundamentalist Christians.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,1
+D0615,204,"Intelligent design avoids mention of God.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,0
+D0615,205,"A 1999 a poll showed 83% of Americans favoring teaching evolution in the public schools.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,0
+D0615,206,"68% thinking one can both believe in evolution and that God created humans and guided their development.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,0
+D0615,207,"Court decisions against teaching creationism as science occurred.",Y,AJQGWGESKQT4Y,D0615.M.250.F.E,0
+D0615,208,"There are two advocacy perspectives on what to teach in American public school biology classes: evolution and creationism.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.F,0
+D0615,209,"Evolution science holds that all species arose over millions of years through genetic mutations and natural selection.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.F,1
+D0615,210,"U.S. Supreme Court rulings have found that creation is a religious belief by some American fundamentalist Christians.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.F,0
+D0615,211,"Creationists say 'evil-lution' is attacking their beliefs and destroying America with 'moral relativism'.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.F,1
+D0615,212,"Evolution science holds that the Earth is billions of years old.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,213,"Repeated U.S. Supreme Court rulings have found that creationism is not science",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,214,"The constitution protects individuals' expression of religious beliefs even in public schools.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,1
+D0615,215,"The constitution bars government officials from favoring one religion.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,216,"New Mexico requires that only evolution be taught.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,217,"In America, 40% of scientists believe in God.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,1
+D0615,218,"Eight-three percent of the pubic favor teaching evolution in public schools.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,219,"Seventy-nine percent favor teaching creationism also.",Y,A2YKW761AK4ZGY,D0615.M.250.F.F,0
+D0615,220,"Biology and other aspects of science cannot be mastered without first understanding evolution.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,1
+D0615,221,"Proponents of evolutionary theory use a plethora of evidence.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,0
+D0615,222,"Scientists and clergy who believe in both God and evolution are often called upon to help the conservative public.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,0
+D0615,223,"Proponents of 'Creation Science' believe a divine being created humans and other species a mere 10,000 years ago.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,0
+D0615,224,"Proponents of 'Creation Science' want evolution to be fairly represented and juxtaposed with other theories of life.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,0
+D0615,225,"Creative design is seen by some as a compromise.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,1
+D0615,226,"Creative design is seen by others as an opening for religion-based teaching.",Y,A2Q3FS9G8ITCN7,D0615.M.250.F.A,0
+D0615,227,"Teaching the origins of life on earth is a controversial and emotional topic.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,1
+D0615,228,"Proponents of 'Creations Science' believe a divine being created humans and other species a mere 10.00 years ago.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,0
+D0615,229,"Proponents of Intelligent Design don't always posit God as the creator.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,0
+D0615,230,"Proponents of Creation Science use the bible as the ultimate authority on how the world was formed.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,0
+D0615,231,"Supporters of Intelligent design want evolution to be fairly represented and juxtaposed with other theories of life.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,0
+D0615,232,"Religion based teaching being inserted into the curriculum would be unconstitutional.",Y,A2YKW761AK4ZGY,D0615.M.250.F.A,1
+D0615,233,"Evolution theory explains how plant and animal species arise.",Y,A2YKW761AK4ZGY,D0615.M.250.F.J,0
+D0615,234,"Evolution theory explains why there is diversity among species.",Y,A2YKW761AK4ZGY,D0615.M.250.F.J,0
+D0615,235,"Scientific evidence shows that life began almost 4 million years ago with simple organisms.",Y,A2YKW761AK4ZGY,D0615.M.250.F.J,0
+D0615,236,"The bible notion is that God created man in his own image.",Y,A2YKW761AK4ZGY,D0615.M.250.F.J,0
+D0615,237,"Creationists reject the scientific method.",Y,A2YKW761AK4ZGY,D0615.M.250.F.J,0
+D0615,238,"Species adapt to their environment and pass on genetic characteristics to their offspring.",Y,A2IU5TX5S0FA1C,D0615.M.250.F.J,1
+D0615,239,"The theory of evolution contradicts the Biblical notion that God created man in His image.",Y,A2IU5TX5S0FA1C,D0615.M.250.F.J,1
+D0615,240,"Creationism holds that a divine being created humans and other species 10,000 years ago.",Y,A2IU5TX5S0FA1C,D0615.M.250.F.J,1
+D0615,241,"The Big Bang Theory, suggests that the universe originated in a colossal explosion about 15 billion years ago.",Y,A2IU5TX5S0FA1C,D0615.M.250.F.J,1
+D0601,242,"At least half of U.S. Indians live in poverty.",Y,A2IU5TX5S0FA1C,D0601.M.250.A.E,0
+D0601,243,"Forty-nine percent of those living on Indian reservations are unemployed.",Y,A2IU5TX5S0FA1C,D0601.M.250.A.E,0
+D0601,244,"Federal funding is inadequate to satisfy the staggering needs of reservations.",Y,A2IU5TX5S0FA1C,D0601.M.250.A.E,1
+D0601,245,"Indian death rate is 35 times higher then the rest of the population",Y,A1G331HUXOSJAM,D0601.M.250.A.E,1
+D0601,246,"The reservation system has helped preserve Indian culture.",Y,A1G331HUXOSJAM,D0601.M.250.A.E,0
+D0601,247,"Federal funding in not enough to help the needs of the reservations.",Y,A1G331HUXOSJAM,D0601.M.250.A.E,0
+D0601,248,"The reservation system does recognize the Indian fishing and hunting rights.",Y,A1G331HUXOSJAM,D0601.M.250.A.E,0
+D0601,249,"The 1988 Indian Gaming Act allows reservations to hold bingo games and slot machine games.",Y,A1G331HUXOSJAM,D0601.M.250.A.E,1
+D0601,250,"The Indian population have a high incidence of alcoholism, diabetes, accidents and suicides.",Y,A1G331HUXOSJAM,D0601.M.250.A.E,1
+D0601,251,"Many reservations are remote with little access to development.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,0
+D0601,252,"Long rides to school means students can't stay to use school resources.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,0
+D0601,253,"Tribal burocracies are scattered and ineffective.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,1
+D0601,254,"Federal aid programs are inadequate.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,0
+D0601,255,"Some reservations impose taxes on non-native Americans.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,0
+D0601,256,"Many feel different rights based on bloodline is unconstitutional.",Y,A1DUH3RLI00YQM,D0601.M.250.A.A,1
+D0601,257,"Indians comprise less than 1% of the population.",Y,A2YKW761AK4ZGY,D0601.M.250.A.A,1
+D0601,258,"Indian reservations can set up casinos which bring job an money.",Y,A2YKW761AK4ZGY,D0601.M.250.A.A,1
+D0601,259,"Only a few casinos are profitable.",Y,A2YKW761AK4ZGY,D0601.M.250.A.A,0
+D0601,260,"Indian cigarette factories, not having to pay tax, can undersell non-reservation factories.",Y,A2YKW761AK4ZGY,D0601.M.250.A.A,0
+D0601,261,"Half of Native American Indian on reservation live in poverty.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,262,"Native American Indians have unemployment that is 10 times the national average.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,263,"Violent crime is increasing.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,264,"One-third of tribes offer gambling.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,265,"Reservations grant tribes self-rule.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,266,"State taxes are not levied on Indians' reservation income.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,267,"Tribal authorities deal with minor crimes but turn to federal help for more serious crime.",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,1
+D0601,268,"Indians and the reservation system face decreased funding for Indian programs",Y,A2YKW761AK4ZGY,D0601.M.250.A.C,0
+D0601,269,"Native American Indian tribes can determine their own fishing and hunting rules.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,1
+D0601,270,"Half of Native American Indians living on reservations live in poverty.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,0
+D0601,271,"A third of Native American Indian tribes offer gambling.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,0
+D0601,272,"Banks are often unwilling to give Indians home loans that are backed by land held in trust.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,0
+D0601,273,"The federal government pays for clinics, schools, and welfare on reservations.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,1
+D0601,274,"Casinos opened by Native American Indians are often opposed by localities that don't want local gambling.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,1
+D0601,275,"While tribal authorities deal with minor crimes, they turn to federal authorities for more drastic crimes.",Y,A1CY01G7686ORZ,D0601.M.250.A.C,0
+D0601,276,"Indian tribes on reservations sovereignty allows them to run casinos.",Y,A2YKW761AK4ZGY,D0601.M.250.A.B,0
+D0601,277,"Indians working on reservations pay no state income tax.",Y,A2YKW761AK4ZGY,D0601.M.250.A.B,0
+D0601,278,"Unemployment often exceeds 50%.",Y,A2YKW761AK4ZGY,D0601.M.250.A.B,0
+D0601,279,"The death rate is 35 times higher than the rest of the population.",Y,A2YKW761AK4ZGY,D0601.M.250.A.B,0
+D0601,280,"Crimes by non-Indians come under local authority.",Y,A2YKW761AK4ZGY,D0601.M.250.A.B,0
+D0601,281,"Indian tribes on reservations enjoy a unique legal status.",Y,A22VACRM9GC73M,D0601.M.250.A.B,1
+D0601,282,"Indian tribes' sovereignty allows them to run casinos.",Y,A22VACRM9GC73M,D0601.M.250.A.B,0
+D0601,283,"Indians working on reservations pay federal income and social security taxes.",Y,A22VACRM9GC73M,D0601.M.250.A.B,1
+D0601,284,"At least half the Indian population lives in poverty.",Y,A22VACRM9GC73M,D0601.M.250.A.B,1
+D0601,285,"Indians are over twice as often to be victims of violent crimes.",Y,A22VACRM9GC73M,D0601.M.250.A.B,1
+D0601,286,"Minor crimes by Indians come under tribal authority.",Y,A22VACRM9GC73M,D0601.M.250.A.B,0
+D0601,287,"The FBI or Bureau of Indian Affairs is responsible for serious crimes by Indians.",Y,A22VACRM9GC73M,D0601.M.250.A.B,0
+D0617,288,"There were no radio reports of trouble.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,1
+D0617,289,"The flight recorder was recovered on November 9.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,0
+D0617,290,"The flight recorder revealed that the autopilot was disconnected",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,0
+D0617,291,"The flight recorder revealed that the cockpit turned off both engines.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,0
+D0617,292,"The cockpit voice recorder was recovered on November 15.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,1
+D0617,293,"The National Transportation Safety Board stated on January 21, 2000 that there was no sign of mechanical failure.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,0
+D0617,294,"The cockpit voice recorder contained the co-pilot chanting, 'I rely on God'.",Y,A2YKW761AK4ZGY,D0617.M.250.H.D,1
+D0617,295,"EgyptAir Flight 990 crashed on October 31, 1999.",Y,A22VACRM9GC73M,D0617.M.250.H.D,0
+D0617,296,"EgyptAir Flight 990's flight recorder was recovered on November 9.",Y,A22VACRM9GC73M,D0617.M.250.H.D,0
+D0617,297,"EgyptAir Flight 990's flight recorder contained the co-pilot chanting, 'I rely on God'.",Y,A22VACRM9GC73M,D0617.M.250.H.D,0
+D0617,298,"The emotional stability of the passengers and crew of EgyptAir Flight 990 were examined.",Y,A22VACRM9GC73M,D0617.M.250.H.D,1
+D0617,299,"Egyptians blamed technical problems for the crash of EgyptAir Flight 990.",Y,A22VACRM9GC73M,D0617.M.250.H.D,0
+D0617,300,"Computer shutdown was speculated as the cause of the crash of EgyptAir Flight 990.",Y,A22VACRM9GC73M,D0617.M.250.H.D,0
+D0617,301,"EgyptAir flight 990 crashed in October 1999.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,302,"There was no distress call.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,303,"An emergency descent was virtually ruled out.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,304,"The tail elevators were in uneven positions.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,1
+D0617,305,"Boeing step up inspections of its elevator systems.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,306,"Investigators determined there was no sign of mechanical failure.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,307,"Both engines had been switched off from the cockpit.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,308,"The co-pilot was the subject of several investigations by New York hotel security police.",Y,A2Q3FS9G8ITCN7,D0617.M.250.H.A,0
+D0617,309,"The EgyptAir flight 990 crash was evaluated for mechanical defects, operational errors, or human sabotage.",Y,A22VACRM9GC73M,D0617.M.250.H.A,1
+D0617,310,"EgyptAir flight 990's tail elevators were in uneven positions.",Y,A22VACRM9GC73M,D0617.M.250.H.A,1
+D0617,311,"Boeing inspected EgyptAir flight 990's elevator systems.",Y,A22VACRM9GC73M,D0617.M.250.H.A,0
+D0617,312,"EgyptAir flight 990 has no sign of mechanical failure.",Y,A22VACRM9GC73M,D0617.M.250.H.A,1
+D0617,313,"EgyptAir flight 990's co-pilot was investigated by New York hotel security police.",Y,A22VACRM9GC73M,D0617.M.250.H.A,0
+D0617,314,"EgyptAir flight 990 plummeted 15,000 feet, but then climbed 8000 feet before its final fall to the ocean.",Y,A22VACRM9GC73M,D0617.M.250.H.A,0
+D0617,315,"EgyptAir flight 990's autopilot was switched off.",Y,A22VACRM9GC73M,D0617.M.250.H.A,0
+D0617,316,"EgyptAir Flight 990 off Nantucket crashed in October 1999.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,1
+D0617,317,"There were no survivors in the EgyptAir Flight 990 crash.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,1
+D0617,318,"The plane's autopilot was disconnected.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,0
+D0617,319,"One thrust reverser had been previously deactivated.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,1
+D0617,320,"Neither pilot nor co-pilot sent a distress message.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,0
+D0617,321,"Data from one Black Box showed that both engines had been switched off from the cabin.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,1
+D0617,322,"Cockpit voice recordings indicated that someone uttered a prayer in Arabic just before the autopilot disengaged.",Y,A2YKW761AK4ZGY,D0617.M.250.H.H,0
+D0617,323,"Some speculated that an in-flight electrical or computer problem caused the crash of EgyptAir Flight 990.",Y,A2IU5TX5S0FA1C,D0617.M.250.H.B,1
+D0617,324,"EgyptAir Flight 990 crashed into the Atlantic on October 31 1999.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,0
+D0617,325,"All 217 people on board Flight 990 died when it crashed.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,0
+D0617,326,"As it flew at 33,000 feet, the aircraft's automatic pilot was shut off.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,1
+D0617,327,"The cockpit voice recorder captured someone uttering a prayer before the autopilot disengaged.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,0
+D0617,328,"Speculation that malfunctioning reverse thrusters caused the crash was disproved.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,0
+D0617,329,"NTSB investigators found no evidence that mechanical or electrical problems or an explosion caused the crash.",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,1
+D0617,330,"The crew did not advise of either an emergency or mechanical problem before or during the dive",Y,A2YKW761AK4ZGY,D0617.M.250.H.B,1
+D0629,0,"Damage to commercial systems and thousands of personal computers from viruses has been extensive.",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,0
+D0629,1,"A virus will generally erase a computer's hard drive",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,1
+D0629,2,"A worm does no direct damage to the computer.",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,1
+D0629,3,"A worm insinuates itself among programs and attaches itself to every message sent.",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,0
+D0629,4,"David Smith of Aberdeen, NJ, was arrested for originating the Melissa worm.",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,0
+D0629,5,"The Explore worm had also originated in Israel.",Y,AJQGWGESKQT4Y,D0629.M.250.B.H,1
+D0629,6,"Computer viruses have turned up in just about every part of the world.",Y,A2IU5TX5S0FA1C,D0629.M.250.B.H,1
+D0629,7,"Worms and viruses are mostly spread by emails and attachments thereto.",Y,A2IU5TX5S0FA1C,D0629.M.250.B.H,0
+D0629,8,"Computer viruses infect both large computer networks and personal PCs.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,0
+D0629,9,"Computer viruses causes information loss,erasure of the hard drive, and system shutdowns.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,0
+D0629,10,"Brain was followed by Chernobyl.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,0
+D0629,11,"Its origin was traced to the work of a computer engineering student, Chen Ing-hau.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,1
+D0629,12,"Precautions include making backups of all important files.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,0
+D0629,13,"Antiviral programs must be continuously updated to react to new viruses.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,1
+D0629,14,"The best defense against computer viruses includes installing anti-virus programs.",Y,AJQGWGESKQT4Y,D0629.M.250.B.I,0
+D0629,15,"Brain was the first known virus to hit personal computers.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,1
+D0629,16,"The Chernobyl virus infected up to one million computers in Southeast Asia.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,0
+D0629,17,"Most viruses enter computers via email attachments.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,1
+D0629,18,"The Computer Emergency Response Team, (CERT) tracks viruses.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,0
+D0629,19,"One of the best defenses against computer viruses includes installing anti-virus programs.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,0
+D0629,20,"The Melissa virus affected more than 100,000 computers worldwide.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,0
+D0629,21,"The origin of the Melissa virus has been traced to David Smith of New Jersey.",Y,ANCCKNF1DKRZO,D0629.M.250.B.I,0
+D0629,22,"Numerous computer viruses have damaged computers worldwide.",Y,AJQGWGESKQT4Y,D0629.M.250.B.B,0
+D0629,23,"The Happy99 virus was disruptive.",Y,AJQGWGESKQT4Y,D0629.M.250.B.B,0
+D0629,24,"The Papa virus used Microsoft Excel attachments to send out 60 emails.",Y,AJQGWGESKQT4Y,D0629.M.250.B.B,0
+D0629,25,"The Chernobyl, also called CIH, virus could erase a computer's hard drive.",Y,AJQGWGESKQT4Y,D0629.M.250.B.B,0
+D0629,26,"Killer C-disk THUS attacked through email on December 13, 1999.",Y,AJQGWGESKQT4Y,D0629.M.250.B.B,0
+D0629,27,"Computer viruses have damaged computers throughout the world.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,1
+D0629,28,"The Melissa virus spread via infected email and attacked computers running Microsoft Word programs.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,1
+D0629,29,"The Word-Concept and Wazzu viruses attacked Word documents.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,1
+D0629,30,"A computer programmer was arrested and charged with creating the Melissa virus",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,0
+D0629,31,"The Melissa virus mutated several times.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,1
+D0629,32,"W32/Kriz.3862 was set to strike on Christmas.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,0
+D0629,33,"The Dhaka virus is also known as the T-virus.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,0
+D0629,34,"Two notable computer viruses stemmed from Bangladesh.",Y,A2CCK1JKX48R0H,D0629.M.250.B.B,0
+D0629,35,"A number of new destructive viruses have been detected on the Internet.",Y,AJQGWGESKQT4Y,D0629.M.250.B.G,0
+D0629,36,"Three in particular have severely damaged computer systems around the world.",Y,AJQGWGESKQT4Y,D0629.M.250.B.G,1
+D0629,37,"Melissa attacks Word 97 and Word 2000 programs.",Y,AJQGWGESKQT4Y,D0629.M.250.B.G,0
+D0629,38,"The 'love bug' virus originated by a Philippine couple.",Y,AJQGWGESKQT4Y,D0629.M.250.B.G,1
+D0629,39,"The Chernobyl virus activated on the anniversary of the Chernobyl disaster, April 26.",Y,ANCCKNF1DKRZO,D0629.M.250.B.G,1
+D0629,40,"The Chernobyl virus enters in e-mail, floppies, or downloaded software.",Y,ANCCKNF1DKRZO,D0629.M.250.B.G,0
+D0629,41,"Melissa makes its way into computers as an e-mail attachment .",Y,ANCCKNF1DKRZO,D0629.M.250.B.G,1
+D0643,42,"Increased precipitation from El Nino brings upsurges in diseases.",Y,AJQGWGESKQT4Y,D0643.M.250.G.C,0
+D0643,43,"El Nino may lessen global warming by temporarily stemming the release of carbon dioxide from the Pacific.",Y,AJQGWGESKQT4Y,D0643.M.250.G.C,0
+D0643,44,"Private forecasting companies who sell predictions to businesses are pushing forecasting frontiers.",Y,AJQGWGESKQT4Y,D0643.M.250.G.C,0
+D0643,45,"El Nino usually occurs around December every 3-6 years.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,0
+D0643,46,"Global warming has been linked to El Nino.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,0
+D0643,47,"Sunspot activity has been linked to El Nino.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,0
+D0643,48,"El Nino causes reversals of normal weather patterns worldwide.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,1
+D0643,49,"El Nino typically lasts a year.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,1
+D0643,50,"La Nina reverses El Nino's effects.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,1
+D0643,51,"Predicting El Nino and its behavior is aided by computer modeling.",Y,A3GWRDHAURRNK6,D0643.M.250.G.C,1
+D0643,52,"El Nino warming changes the winds and atmospheric pressure, shifting weather patterns and reducing carbon dioxide release.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.D,0
+D0643,53,"Increased water borne illnesses in Africa and decreased milk production in California have also been attributed to El Ninos.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.D,0
+D0643,54,"La Nina is the opposite condition from El Nino.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.D,0
+D0643,55,"El Nino is a periodic weather phenomenon caused by abnormal warming of the water in the eastern Pacific.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,1
+D0643,56,"This warming changes the winds and atmospheric pressure.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,1
+D0643,57,"El Nino can cause storms in California, tornadoes in Florida, a mild winter in the northern states.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,0
+D0643,58,"El Nino can cause storms and flooding in South America and Africa.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,1
+D0643,59,"Scientists in the United States, Australia, Israel, and Germany are using sophisticated computer simulations.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,1
+D0643,60,"Some Chinese are seeking links between El Nino and sunspot cycles.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,0
+D0643,61,"Scientists around the world are trying to understand, track, and predict these phenomena.",Y,AJQGWGESKQT4Y,D0643.M.250.G.D,0
+D0643,62,"La Nina is the phenomenon of rapidly cooling equatorial waters in the central Pacific.",Y,ANCCKNF1DKRZO,D0643.M.250.G.G,0
+D0643,63,"La Nina works in reverse of El Nino.",Y,ANCCKNF1DKRZO,D0643.M.250.G.G,1
+D0643,64,"La Nina causes cooler conditions in central North America and dry warm conditions in the southern states.",Y,ANCCKNF1DKRZO,D0643.M.250.G.G,0
+D0643,65,"El Nino may also help cut global warming.",Y,ANCCKNF1DKRZO,D0643.M.250.G.G,0
+D0643,66,"El Nino is a disruptive weather phenomenon.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,1
+D0643,67,"El Nino usually occurs every three to four years on the average.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,1
+D0643,68,"El Nino involves a surface warming of the eastern and central Pacific Ocean around the equator when trade winds weaken.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,0
+D0643,69,"El Nino can disrupt climate around the world.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,0
+D0643,70,"El Nino reverses normal weather patterns.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,0
+D0643,71,"El Nino helps trigger some man-made disasters, such as forest fires.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,0
+D0643,72,"Computer module studies and satellite systems allow for a better understanding of how El Nino and La Nina form.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,0
+D0643,73,"El Nino can be credited with saving lives that would have been lost in normal winter and hurricane seasons.",Y,AJQGWGESKQT4Y,D0643.M.250.G.G,1
+D0643,74,"These phenomena even slow the Earth's rotation.",Y,AJQGWGESKQT4Y,D0643.M.250.G.F,0
+D0643,75,"Scientific technologies and techniques for studying these phenomena include computer modeling.",Y,AJQGWGESKQT4Y,D0643.M.250.G.F,0
+D0643,76,"Scientific technologies and techniques for studying these phenomena include simulation.",Y,AJQGWGESKQT4Y,D0643.M.250.G.F,0
+D0643,77,"Scientific technologies and techniques for studying these phenomena include onsite and remote satellite measurement of changes in weather data.",Y,AJQGWGESKQT4Y,D0643.M.250.G.F,0
+D0643,78,"El Nino and El Nina are opposite extremes of continuous but far ranging changes in precipitation.",Y,AJQGWGESKQT4Y,D0643.M.250.G.F,1
+D0643,79,"El Nino and El Nina even slow the Earth's rotation",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,0
+D0643,80,"Slowing of the Earth's rotation has long-term global climate implications.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,1
+D0643,81,"Computer modeling a simulation are used to study El Nino and El Nina patterns.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,0
+D0643,82,"Israel's Weizmann Institute of Science is one program used to study and predict El Nino and El Nina patterns.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,0
+D0643,83,"El Nino and El Nina result in dangerous temperature changes, storms, floods and droughts world wide.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,1
+D0643,84,"The results of El Nino and El Nina can have severe economic impacts, disease and death.",Y,A2IU5TX5S0FA1C,D0643.M.250.G.F,1
+D0647,85,"His mother and 12 others had fled Cuba in a motorboat that capsized.",Y,AJQGWGESKQT4Y,D0647.M.250.B.D,1
+D0647,86,"he great-uncle applied for asylum for Elian.",Y,AJQGWGESKQT4Y,D0647.M.250.B.D,0
+D0647,87,"Elian became a symbol of the continuing struggle between Castro and the US Cuban-exile community.",Y,AJQGWGESKQT4Y,D0647.M.250.B.D,1
+D0647,88,"On June 1 the appeal was denied and this denial was upheld on June 23.",Y,AJQGWGESKQT4Y,D0647.M.250.B.D,0
+D0647,89,"On June 28 the Supreme Court refused to review the case or extend the injunction.",Y,AJQGWGESKQT4Y,D0647.M.250.B.D,1
+D0647,90,"Elian Gonzales was rescued at sea on November 25, 1999.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,0
+D0647,91,"Elian's great-uncle in Florida was granted temporary custody.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,0
+D0647,92,"His father demanded his return to Cuba.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,0
+D0647,93,"Elian was seized by federal agents and taken to his father.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,1
+D0647,94,"The great-uncle fought through the Federal courts to retain custody.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,0
+D0647,95,"Elian and his father returned to Cuba.",Y,A2Q3FS9G8ITCN7,D0647.M.250.B.D,0
+D0647,96,"On November 25, Elian was rescued at sea.",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,0
+D0647,97,"On November 26, the U.S. Immigration and Naturalization Service granted great-uncle Lazaro Gonzalez temporary custody of Elian.",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,0
+D0647,98,"U.S. Attorney General, Janet Reno, retained legal custody.",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,0
+D0647,99,"On December 10, Lazaro Gonzalez applied for asylum for Elian",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,1
+D0647,100,"The INS decided Elian 'belongs with his father' back in Cuba",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,0
+D0647,101,"The 11th U.S. Circuit Court of Appeals in Atlanta ruled for the government and Elian's father.",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,1
+D0647,102,"Elian returned home to Cuba.",Y,AJQGWGESKQT4Y,D0647.M.250.B.F,0
+D0647,103,"On November 22, 1999, 6-year old Elian Gonzales escaped Cuba by boat with his mother.",Y,A2IU5TX5S0FA1C,D0647.M.250.B.F,1
+D0647,104,"Janet Reno was U.S. Attorney General in 1999.",Y,A2IU5TX5S0FA1C,D0647.M.250.B.F,0
+D0647,105,"On March 21, 2000, a U.S. District Judge dismissed Lazaro Gonzales' lawsuit.",Y,A2IU5TX5S0FA1C,D0647.M.250.B.F,0
+D0647,106,"On January 7, 2000 Lazaro Gonzalez filed petition for temporary custody in state court for Elian Gonzales.",Y,A2IU5TX5S0FA1C,D0647.M.250.B.F,1
+D0647,107,"Elian's mother drowned when their boat capsized.",Y,AJQGWGESKQT4Y,D0647.M.250.B.B,1
+D0647,108,"Elian's Miami relatives were given temporary custody.",Y,AJQGWGESKQT4Y,D0647.M.250.B.B,0
+D0647,109,"Federal immigration officials ruled that Elian be returned to his father in Cuba.",Y,AJQGWGESKQT4Y,D0647.M.250.B.B,1
+D0647,110,"An emotional international custody battle ensued.",Y,AJQGWGESKQT4Y,D0647.M.250.B.B,0
+D0647,111,"The U.S. appeals court reaffirmed its decision to return Elian to his father.",Y,AJQGWGESKQT4Y,D0647.M.250.B.B,0
+D0647,112,"Elian Gonzales was found lashed to an inner tube.",Y,A2C84POENS2UNY,D0647.M.250.B.B,1
+D0647,113,"Elian Gonzales was floating off the coast of Miami.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,114,"Elian's mothers dying wish was to keep him in America.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,115,"On April 22, federal agents seized Elian in a pre-dawn raid.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,116,"Elian Gonzales was six years old in 1999.",Y,A2C84POENS2UNY,D0647.M.250.B.B,1
+D0647,117,"Elian returned to Cuba on June 28, 2000.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,118,"Elian's Miami relatives refused to meet with his father in Washington.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,119,"The courts ruled that Elian should remain in the U.S. until all legal proceedings were completed.",Y,A2C84POENS2UNY,D0647.M.250.B.B,0
+D0647,120,"Elian Gonzalez was rescued from the Atlantic Ocean on November 25, 1999.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,0
+D0647,121,"On November 25, 1999 Elian Gonzalez was six years old.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,1
+D0647,122,"The relatives of Elian Gonzalez challenged the ruling of the INS in court.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,0
+D0647,123,"On April 22, 2000 federal agents took custody of Elian Gonzalez from his American relatives.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,1
+D0647,124,"Riots occurred in Miami as a result of the Elian Gonzalez case.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,0
+D0647,125,"Elian Gonzalez was returned to Cuba on June 28th 2000.",Y,A1C7UV2UT2S9T7,D0647.M.250.B.C,1
+D0647,126,"Elian's great-uncle in Miami was granted temporary custody.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,0
+D0647,127,"Vietnam demanded Elian be returned to Cuba.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,0
+D0647,128,"The Miami relatives insisted Elian didn't want to return and appealed to Attorney General Janet Reno.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,0
+D0647,129,"Reno upheld the father's right to custody and ignored Florida court interference.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,1
+D0647,130,"The Supreme Court rejected an appeal by the Miami relatives.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,0
+D0647,131,"Elian returned to Cuba on June 28, 2000.",Y,AJQGWGESKQT4Y,D0647.M.250.B.C,0
+D0645,132,"In 1997 at least 4.5 million families were paying more than 50% of their income on housing",Y,A2IU5TX5S0FA1C,D0645.M.250.I.D,0
+D0645,133,"Grants were made to non-profit organizations to build or rehabilitate apartments for the elderly and disabled.",Y,A2IU5TX5S0FA1C,D0645.M.250.I.D,0
+D0645,134,"There is not enough low-cost housing in the United States.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,1
+D0645,135,"In 1995 there were 4.4 million more low-income earners than there were low-cost housing units.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,1
+D0645,136,"Landlords were dropping out of rent subsidy programs to raise the rent or convert the real estate to condominiums.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,0
+D0645,137,"The number of homeless was rising.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,0
+D0645,138,"Rents were going up faster than incomes.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,1
+D0645,139,"To address this crisis, various programs were used to create more low-cost housing.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,0
+D0645,140,"Tax credits were created to encourage builders to build more units and build in low-income areas.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,1
+D0645,141,"The number of rent vouchers given to low-income city dwellers was increased.",Y,AJQGWGESKQT4Y,D0645.M.250.I.D,0
+D0645,142,"No new U.S. federal housing assistance vouchers were created after 1994.",Y,AJQGWGESKQT4Y,D0645.M.250.I.F,1
+D0645,143,"Three-fifths of all poor renters spent more than halve their income on rent.",Y,AJQGWGESKQT4Y,D0645.M.250.I.F,0
+D0645,144,"In 1997 5.4 million were paying more than 50% of income for housing.",Y,AJQGWGESKQT4Y,D0645.M.250.I.F,0
+D0645,145,"In 1998, 90,000 new rent vouchers were created.",Y,AJQGWGESKQT4Y,D0645.M.250.I.F,1
+D0645,146,"There were two low-income renters for every low-cost unit.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,1
+D0645,147,"Three-fifths of all poor renters spent over half their income on rent.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,0
+D0645,148,"In 1998 there was a $283 million rent subsidy for 50,000 welfare job seekers.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,0
+D0645,149,"In 1998, with rising real estate prices, local governments built more low and moderate-income housing.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,1
+D0645,150,"The FY1999 housing budget provided $1.8 billion in new vouchers.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,0
+D0645,151,"Federal rent subsidies increased from 40% to 50% in 2000.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,0
+D0645,152,"The FY1999 housing budget provided $822 million for construction and rehabilitation of apartment unites and rent subsidies.",Y,AI6U09NVOZ62B,D0645.M.250.I.F,0
+D0645,153,"The number of people living below the poverty level in America has increased.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,0
+D0645,154,"The amount of affordable housing for low and moderate-income residents has decreased.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,1
+D0645,155,"Republicans and Democrats disagree on how to increase low-cost housing.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,0
+D0645,156,"Republicans favored giving more subsidized rental units to the working poor.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,0
+D0645,157,"Democrats favored subsidizing housing for the poorest people in America.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,0
+D0645,158,"Democrats and Republicans had to compromise on a bill to address housing issues for low income people.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,0
+D0645,159,"Single mothers, elderly, immigrants and the working poor have the most trouble finding affordable housing.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,1
+D0645,160,"The working poor pay more than half their income for housing.",Y,A2CCK1JKX48R0H,D0645.M.250.I.I,1
+D0645,161,"In America the number of people living below poverty level has increased.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,162,"Hardest hit are single mothers, elderly, immigrants and working poor.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,1
+D0645,163,"Many owners of rental units now rent to higher income tenants.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,164,"Republicans wanted public housing to be available to all income groups.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,165,"Many state and local jurisdictions have creative programs to provide low-income housing.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,166,"HUD will increase payments and provide other incentives to landlords.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,167,"Both Republicans and Democrats agreed there was a significant need for housing for low and moderate-income families.",Y,AJQGWGESKQT4Y,D0645.M.250.I.I,0
+D0645,168,"Rises in housing costs were driven by a strong economy.",Y,ANCCKNF1DKRZO,D0645.M.250.I.C,0
+D0645,169,"Wages have not kept up with rises in housing costs.",Y,ANCCKNF1DKRZO,D0645.M.250.I.C,0
+D0645,170,"In 1977, banks were required to lend money to low-income and minority residents where they did business.",Y,ANCCKNF1DKRZO,D0645.M.250.I.C,0
+D0645,171,"Public housing turnover is low.",Y,ANCCKNF1DKRZO,D0645.M.250.I.C,0
+D0645,172,"Minority mortgage applicants face discrimination.",Y,ANCCKNF1DKRZO,D0645.M.250.I.C,0
+D0645,173,"Low-income Americans face problems in finding housing.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,0
+D0645,174,"The pool of affordable housing has shrunk.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,1
+D0645,175,"Landlords have dropped out of subsidy programs.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,0
+D0645,176,"Public housing concentrates extremely poor people.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,0
+D0645,177,"In 1977 banks were required to loan money to low-income and minority residents where they did business.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,0
+D0645,178,"Real or proposed measures include block grants to states for housing assistance",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,1
+D0645,179,"It was proposed that FHA revenues be reserved for use in federal housing initiatives.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,1
+D0645,180,"Congress refused any new assistance vouchers between 1995-1998.",Y,AJQGWGESKQT4Y,D0645.M.250.I.C,1
+D0628,181,"It is estimated that from three to five or even nine percent of children have ADD/ADHD.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.H,0
+D0628,182,"Twenty percent of children diagnosed with ADD/ADHD may outgrow it.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.H,0
+D0628,183,"Onset of ADHD does not occur in adulthood except through trauma.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,1
+D0628,184,"It is estimated that from three to five or even nine percent of children have the disorder.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,1
+D0628,185,"An increase in the number of diagnoses of ADHD is attributed to include either hyperactivity or impulsive behavior.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,1
+D0628,186,"Critics say that doctors are too quick to diagnose ADHD and over-prescribe drugs for children.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,1
+D0628,187,"Ritalin has side effects including sleeplessness and loss of appetite.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,0
+D0628,188,"No drug has been yet found to treat the disorder.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,0
+D0628,189,"ADD/ADHD is diagnosed through behavioral patterns.",Y,AJQGWGESKQT4Y,D0628.M.250.A.H,0
+D0628,190,"Until recently there have been no biological or medical tests to confirm diagnosis.",Y,AJQGWGESKQT4Y,D0628.M.250.A.I,1
+D0628,191,"Diagnosis was by descriptions of behavior by teachers and medical professionals.",Y,AJQGWGESKQT4Y,D0628.M.250.A.I,1
+D0628,192,"Attention Deficit Disorder, ADHD, has become increasingly common in American children.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,1
+D0628,193,"Some 2.5 million American children have been diagnosed with ADHD.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,0
+D0628,194,"ADHD, a chemical disorder in the brain, can cause impulsivity, inability to concentrate, and difficulty learning.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,1
+D0628,195,"There has been much controversy around diagnosis and treatment of ADHD.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,0
+D0628,196,"In 2000, for the first time the American Academy of Pediatrics set specific guidelines for diagnosis of ADHD.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,0
+D0628,197,"The most common treatments for ADHD are the stimulant drugs, Ritalin or Adderall.",Y,A2IU5TX5S0FA1C,D0628.M.250.A.I,0
+D0628,198,"ADHD, attention-deficit-hyperactivity disorder, is a neurological and genetic disorder.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,1
+D0628,199,"ADHD is  characterized by impulsivity, inattentiveness, and lack of inhibition and self-control.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,0
+D0628,200,"The American Psychiatric Association first described it in 1980.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,0
+D0628,201,"Those diagnosed appear to have a deficiency in certain brain receptors involved in processing the neurotransmitter dopamine.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,0
+D0628,202,"It is difficult to diagnose ADHD because there are other kinds of problems, such as anxiety and depression.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,0
+D0628,203,"Medication so far appears to be more effective than behavior modification therapy when treating ADHD alone.",Y,AJQGWGESKQT4Y,D0628.M.250.A.G,1
+D0628,204,"Attention-deficit-hyperactivity disorder is characterized by impulsivity, inattentiveness, and lack of self-control.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,0
+D0628,205,"ADHD was first described in 1980 by the American Psychiatric Association.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,1
+D0628,206,"People diagnosed are lacking in certain brain receptors that process the neurotransmitter dopamine.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,0
+D0628,207,"ADHD may be a chronic condition that can last a lifetime.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,0
+D0628,208,"Ritalin is the most effective way to treat ADHD.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,0
+D0628,209,"The use of medicine is more effective than behavior modification therapy.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,0
+D0628,210,"Ritalin can have negative side effects for children.",Y,A49WTQG4MBT9Z,D0628.M.250.A.G,1
+D0628,211,"ADHD is a common psychiatric illness.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,212,"Symptoms of ADHD include impulsiveness, inability to concentrate, difficulty in learning and restlessness.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,213,"There are 4 types of ADHD.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,214,"There are two main types of treatment for ADHD: behavior modification therapy and drugs.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,215,"A big controversy surrounding ADHD drugs is the long range effects of those drugs.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,216,"People with Type A ADHD experience inattentiveness and distractability.",Y,A2CCK1JKX48R0H,D0628.M.250.A.A,0
+D0628,217,"ADHD, a common psychiatric illnes, affects 3-9% of all children.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,0
+D0628,218,"ADHD is difficult to diagnose.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,0
+D0628,219,"Outward symptoms generally include impulsiveness, inability to concentrate, difficulty in learning, and restlessness.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,0
+D0628,220,"Type A is characterized by inattentiveness and distractability.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,1
+D0628,221,"Type B by hyperactivity and impulsive behavior.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,1
+D0628,222,"Type C a combination of the two.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,1
+D0628,223,"Adderall, a mixture of two kinds of amphetamines, is effective for treating ADHD.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,1
+D0628,224,"Claims that dietary supplements help are questionable.",Y,AJQGWGESKQT4Y,D0628.M.250.A.A,0
+D0650,225,"Former President Jimmy Carter founded the Carter Center.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.E,0
+D0650,226,"Transparency for Growth in The Americas is a program for combating corruption through openness in government.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.E,0
+D0650,227,"Former President Jimmy Carter has played an active role on the international stage.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,1
+D0650,228,"Carter has led many international teams of observers to monitor elections throughout the world.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,0
+D0650,229,"By 1999 he had monitored more than 20 elections in 16 countries.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,1
+D0650,230,"Carter has visited 115 countries.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,0
+D0650,231,"Through the Carter Center, the former President has led successful campaigns against two devastating diseases.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,0
+D0650,232,"In 1999 the Center received grants totaling $30 million.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,0
+D0650,233,"In August 1999 President Clinton awarded former President Carter the Medal of Freedom.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,1
+D0650,234,"Carter is credited with gaining release of approximately 50,000 political prisoners.",Y,AJQGWGESKQT4Y,D0650.M.250.E.E,1
+D0650,235,"Jimmy Carter and his wife established the Carter Center in 1982.",Y,ANCCKNF1DKRZO,D0650.M.250.E.D,0
+D0650,236,"River blindness is caused by black flies.",Y,ANCCKNF1DKRZO,D0650.M.250.E.D,0
+D0650,237,"In 1986, an estimated 3 million people were infested each year with Guinea-worm disease.",Y,ANCCKNF1DKRZO,D0650.M.250.E.D,0
+D0650,238,"Trachoma eye disease has blinded 6 million people and infected millions more.",Y,ANCCKNF1DKRZO,D0650.M.250.E.D,1
+D0650,239,"The Carter Center recognized Pakistan for being the first Asian nation to eradicate Guinea-worm disease in 2000.",Y,ANCCKNF1DKRZO,D0650.M.250.E.D,0
+D0650,240,"Ex-President Jimmy Carter has been a champion for world peace and human rights since leaving office.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,0
+D0650,241,"Carter has met with various dictators, including Yasser Arafat.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,0
+D0650,242,"He and his wife, Rosalynn, established the Carter Center in 1982.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,1
+D0650,243,"This center is focused on efforts to ensure free elections and fight several third world diseases.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,1
+D0650,244,"In 1998 the Center initiated a project called 'Transparency for Growth in the Americas'.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,0
+D0650,245,"The Center is also fighting Guinea-worm disease in Africa and Asia.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,0
+D0650,246,"In 1999, the Center initiated its first program aimed at eradicating trachoma.",Y,AJQGWGESKQT4Y,D0650.M.250.E.D,1
+D0650,247,"In 1982, former US president Jimmy Carter and his wife founded the Carter Center.",Y,AJQGWGESKQT4Y,D0650.M.250.E.C,0
+D0650,248,"Carter Center observer missions often include former heads of state.",Y,AJQGWGESKQT4Y,D0650.M.250.E.C,0
+D0650,249,"Carter has written books on elections and the Middle East.",Y,AJQGWGESKQT4Y,D0650.M.250.E.C,0
+D0650,250,"Thugs have threatened Carter's life.",Y,AJQGWGESKQT4Y,D0650.M.250.E.C,0
+D0650,251,"Carter's involvement helped persuade Ortega to accept Nicaraguan election results that deposed him.",Y,AJQGWGESKQT4Y,D0650.M.250.E.C,0
+D0650,252,"Former US president Jimmy Carter and his wife founded the Carter Center in 1982.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,1
+D0650,253,"Carter Center observer missions have monitored at least 20 elections in 16 countries",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,1
+D0650,254,"The Carter Center has received funding from Coca-Cola.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,0
+D0650,255,"Since 1987, the Carter Center has worked to treat and prevent diseases causing blindness.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,0
+D0650,256,"It is responsible for the near global eradication of Guinea worm disease.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,1
+D0650,257,"Carter has become known as the greatest ex-president in US history.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,1
+D0650,258,"Carter has been awarded the Presidential Medal of Freedom.",Y,A2Q3FS9G8ITCN7,D0650.M.250.E.C,0
+D0650,259,"In the years since he left office, Carter has traveled extensively to monitor elections",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,0
+D0650,260,"In 1982 Carter established the Carter Center.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,0
+D0650,261,"The Center's staff has been involved with Carter in his international efforts.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,0
+D0650,262,"Carter produced a cease-fire in Bosnia.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,0
+D0650,263,"The Carter Center contributed to the near global eradication of Guinea worm disease.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,1
+D0650,264,"Carter had visited 115 countries on missions.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,0
+D0650,265,"River blindness is a disease that infects 18 million people mainly in Africa.",Y,AJQGWGESKQT4Y,D0650.M.250.E.J,1
+D0650,266,"Jimmy Carter was the 39th president of the United States.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.J,1
+D0650,267,"Jimmy Carter's presidency was from 1977-1981.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.J,1
+D0650,268,"The Carter Center frequently monitors the electoral process in foreign countries to ensure international standards for fair elections are met.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.J,0
+D0650,269,"Jimmy Carter and the Carter Center contributed to the near global eradication of Guinea worm disease.",Y,A2IU5TX5S0FA1C,D0650.M.250.E.J,0

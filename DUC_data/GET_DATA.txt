@@ -1,0 +1,3 @@
+To get this data, contact NIST through here:
+https://www-nlpir.nist.gov/projects/duc/data.html
+After filling out some forms and sending an email as instructed, the data becomes available in a few business days.
