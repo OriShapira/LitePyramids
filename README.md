@@ -2,7 +2,8 @@
 This project includes code, crowdsourcing tasks, and a dataset for manual evaluation of system summaries, via crowdsourcing.
 The idea is based on the [Pyramid evaluation method](http://www.aclweb.org/anthology/N04-1019) (Nenkova and Passonneau 2004).
 
-This resource is supplementary to the paper: *TODO: put once published*
+This resource is supplementary to the paper:
+Ori Shapira, David Gabay, Yang Gao, Hadar Ronen, Ramakanth Pasunuru, Mohit Bansal, Yael Amsterdamer, and Ido Dagan. Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation. In NAACL 2019.
 
 ## Overview
 The overall method consists of two phases:
